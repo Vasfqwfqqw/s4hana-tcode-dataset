@@ -1,0 +1,829 @@
+tcode,description,module,status,replacement,replacement_type,sap_reference,delta_note,review_status,source_item,source_page
+ABLM_BLACKLIST,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+AD02ACTV,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Actual labor and costing (S4TWL item 13.1.9, SAP Note 2445654)",,pending,13.1.9,1041
+AD02PRCE,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Actual labor and costing (S4TWL item 13.1.9, SAP Note 2445654)",,pending,13.1.9,1041
+ADAA,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Actual labor and costing (S4TWL item 13.1.9, SAP Note 2445654)",,pending,13.1.9,1041
+BADI_CMP_PROCESSING,,SD,deleted,,none,"S4TWL - SD Complaint Handling (S4TWL item 11.1.10, SAP Note 2267398)",,pending,11.1.10,1010
+BADI_GPD_02,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_03,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_04,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_05,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_06,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_07,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_09,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_11,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_12,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_14,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_15,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_17,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_18,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BADI_GPD_19,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+BD_GEN_GRCP,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+BD_GEN_SRCP,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+BOR,,MDM,deleted,,none,"S4TWL - Business Partner Hierarchy Not Available (S4TWL item 5.1.19, SAP Note 2409939)",,pending,5.1.19,121
+BPH,,MDM,deleted,,none,"S4TWL - Business Partner Hierarchy Not Available (S4TWL item 5.1.19, SAP Note 2409939)",,pending,5.1.19,121
+BPH_TYPE,,MDM,deleted,,none,"S4TWL - Business Partner Hierarchy Not Available (S4TWL item 5.1.19, SAP Note 2409939)",,pending,5.1.19,121
+BUHI_CLEAR_BUFFER,,MDM,deleted,,none,"S4TWL - Business Partner Hierarchy Not Available (S4TWL item 5.1.19, SAP Note 2409939)",,pending,5.1.19,121
+BUS1006004,,MDM,deleted,,none,"S4TWL - Business Partner Hierarchy Not Available (S4TWL item 5.1.19, SAP Note 2409939)",,pending,5.1.19,121
+CANCDIS01,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+CATSXC,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+CATSXC_CHECK,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+CATSXC_COMP_DTL,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+CATSXT,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+CATSXT_ADMIN,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+CBCACT,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCAT,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCBRG,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCF,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCMLS,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCMOD,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCMSV,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCMTG,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCPAR,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCS,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBCSTEP,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBIH00,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH02,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH03,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH12,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH13,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH14,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH42,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH43,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH50,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH51,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH52,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH72,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH73,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH82,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH83,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH88,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH89,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH92,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH92OLD,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIH93OLD,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHB0,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHB1,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHB2,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHB3,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHB4,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHB5,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHB6,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHCH1,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHCH2,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHCH3,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHCH4,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHM2,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHM3,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR01,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR02,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR03,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR04,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR05,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR06,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR07,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR08,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHMR09,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHR01,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHSR01,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT0,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT1,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT12,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT13,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT2,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT22,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT23,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT3,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT32,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT33,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT4,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT5,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT52,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT53,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT6,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT62,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT63,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT7,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT72,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBIHT73,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+CBP1,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBP2,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBP3,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBP4,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBP5,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBP6,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBP7,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBPRO,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBPV,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CBP_SOP_PLAN_SAVE,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+CC04,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CC31,,PLM,deleted,,none,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
+CC32,,PLM,deleted,,none,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
+CC33,,PLM,deleted,,none,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
+CC62,,PLM,deleted,,none,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
+CCSEQ_CSGUPD,,PLM,deleted,,none,"S4TWL - Engineering Change Management Change Sequence Graph (S4TWL item 10.4.19, SAP Note 2267920)",,pending,10.4.19,941
+CCSEQ_CUST,,PLM,deleted,,none,"S4TWL - Engineering Change Management Change Sequence Graph (S4TWL item 10.4.19, SAP Note 2267920)",,pending,10.4.19,941
+CCSEQ_CYCLE,,PLM,deleted,,none,"S4TWL - Engineering Change Management Change Sequence Graph (S4TWL item 10.4.19, SAP Note 2267920)",,pending,10.4.19,941
+CE01,,PLM,deleted,,none,"S4TWL - Collaborative Engineering (S4TWL item 10.4.27, SAP Note 2268017)",,pending,10.4.27,950
+CE02,,PLM,deleted,,none,"S4TWL - Collaborative Engineering (S4TWL item 10.4.27, SAP Note 2268017)",,pending,10.4.27,950
+CE03,,PLM,deleted,,none,"S4TWL - Collaborative Engineering (S4TWL item 10.4.27, SAP Note 2268017)",,pending,10.4.27,950
+CEP_R3_MON,,PLM,deleted,,none,"S4TWL - Collaborative Engineering (S4TWL item 10.4.27, SAP Note 2268017)",,pending,10.4.27,950
+CFC01,,PLM,deleted,,none,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
+CFC02,,PLM,deleted,,none,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
+CFE01,,PLM,deleted,,none,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
+CFE02,,PLM,deleted,,none,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
+CFE03,,PLM,deleted,,none,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
+CFI01,,PLM,deleted,,none,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
+CFI02,,PLM,deleted,,none,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
+CFI03,,PLM,deleted,,none,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
+CIC0,,CS,deleted,,none,"S4TWL - Customer Interaction Center (CIC) (S4TWL item 12.2.1, SAP Note 2267412)",,pending,12.2.1,1026
+CL20,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL20N,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL22,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL22N,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL24,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL24N,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL6E,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL6F,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL6G,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL6R,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CLB1,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CLB2,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CLB3,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CLNA,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CN06,,PPM,deleted,,none,"S4TWL - Selected Project System Interfaces (S4TWL item 10.1.27, SAP Note 2267288)",,pending,10.1.27,865
+CN07,,PPM,deleted,,none,"S4TWL - Selected Project System Interfaces (S4TWL item 10.1.27, SAP Note 2267288)",,pending,10.1.27,865
+COMCPRD_BSP_ID,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMC_MATERIALID_ALL,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMC_PRODUCT_IDX,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMC_PR_ALTID,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMC_PR_ALTID_BSP,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMC_PR_OBJ_FAM,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMC_PR_OBJ_FAM1,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMC_PR_RFCDEST,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMC_SERVICEID_ALL,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMMPR01,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMMPR02,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMMPR_PCUI,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMM_DEL_PRWB_USER,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMM_EXTRSET,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMM_HIERARCHY,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMM_IOBJ_RECATEG,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMM_MSG01,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMM_PRAPPLCAT,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMM_PRDARC,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMM_PROD_RECATEG,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+COMP,,FI-GRC,deleted,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Almost certainly not a real transaction. This looks like a line-wrap fragment of WB25_COMP from the source PDF, so see that record instead, where WB24N is the named successor.",reviewed,6.6.2,376
+COM_PR_MDCHECK,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+CPC1-3,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Maintain your indirect activity allocation cycles in KSC1 to KSC3 from now on. The cost-centre transactions take a business process as sender or receiver, which makes the ABC-specific codes redundant, and parallel ABC on delta versions is gone entirely.",reviewed,6.5.2,320
+CPC5,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Run indirect activity allocation through KSC5 instead. S/4HANA drops the ABC-specific code because the cost-centre equivalent handles business processes directly, and only operational version 0 ABC survives the move.",reviewed,6.5.2,320
+CPII,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","For activity price calculation, switch to KSII. It carries business processes as sender and receiver, so the ABC version of the transaction is retired, along with delta versions and parallel Activity-Based Costing.",reviewed,6.5.2,320
+CPP1-3,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Assessment cycle maintenance now happens in KSU1 to KSU3. SAP maps these directly from the ABC codes, since the cost-centre transactions cover business processes too, and note that delta-version ABC does not exist in S/4HANA.",reviewed,6.5.2,320
+CPP5,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Use KSU5 to run assessments going forward. The ABC-specific transaction falls away because the standard one covers business processes, and only integrated ABC in version 0 continues.",reviewed,6.5.2,320
+CPR,,PPM,deleted,,none,"S4TWL - Construction Progress Report and Valuation (S4TWL item 10.1.31, SAP Note 2267289)",,pending,10.1.31,869
+CPTG,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Template allocation for cost objects ends here. General cost objects do not exist in S/4HANA, so this work moves onto internal orders or product cost collectors instead.",reviewed,6.5.3,324
+CPTH,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","The collective template allocation run for cost objects has no home in S/4HANA, because general cost objects themselves are gone. Rebuild the process on internal orders or product cost collectors.",reviewed,6.5.3,324
+CPV1-3,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Distribution cycle maintenance moves to KSV1 to KSV3. The cost-centre codes now accept business processes as sender or receiver, so these ABC variants are redundant, and parallel ABC on delta versions is not supported at all.",reviewed,6.5.2,320
+CPV5,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Run distributions with KSV5 in S/4HANA. It replaces the ABC-specific code directly, and if you were using parallel Activity-Based Costing on delta versions, be aware delta versions are gone entirely.",reviewed,6.5.2,320
+CRM_PRODUCT_LOG,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+CRM_PRODUCT_STA,,MDM,replaced,,none,"S4TWL - SRM Product Master (S4TWL item 5.1.7, SAP Note 2267297)",,pending,5.1.7,103
+CT01,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT02,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT03,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT04,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT05,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT06,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT11,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT12,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT21,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT22,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CU51,,PLM,deleted,,none,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+CU51E,,PLM,deleted,,none,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+CU52,,PLM,deleted,,none,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+CU52E,,PLM,deleted,,none,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+CU55,,PLM,deleted,,none,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+CU80,,PLM,deleted,,none,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+CUMODEL,,PLM,deleted,,none,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+CUSDE,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","This entry looks like a truncated CUSDEC, cut at a line wrap in the source. Refer to the CUSDEC record, which retires with SD Foreign Trade in favour of the international trade and SAP GTS stack.",reviewed,6.6.1,368
+CUSDEC,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Customs declarations via EDI end with SD Foreign Trade, which is not part of S/4HANA. Customs handling is re-implemented in SAP S/4HANA for international trade, with SAP GTS covering import and export management.",reviewed,6.6.1,368
+DIN,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+DIS01,,IND-Aerospace and Defense,replaced,,none,"S4TWL - Cost Distribution Processing (S4TWL item 13.1.2, SAP Note 2270834)",,pending,13.1.2,1029
+DIS01N,,IND-Aerospace and Defense,replaced,,none,"S4TWL - Cost Distribution Processing (S4TWL item 13.1.2, SAP Note 2270834)",,pending,13.1.2,1029
+DRM,,IND-High Tech,replaced,,none,"S4TWL - Distributor/Reseller Processes (S4TWL item 13.8.3, SAP Note 2270858)",,pending,13.8.3,1113
+DRMBUMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMCDMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMCLMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMIRMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMLMMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMPCMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMPEMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMPPMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMPPMS_C,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMPPMS_D,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMPPMS_P,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMR3MS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMSTGMS,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+DRMXMRPT,,IND-High Tech,replaced,,none,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
+EASYDMS_CUS,,PLM,deleted,,none,"S4TWL - Easy Document Management (Easy DMS) (S4TWL item 10.4.6, SAP Note 2267866)",,pending,10.4.6,924
+ECH,,PLM,deleted,,none,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
+EDESK_CUS,,PLM,replaced,,none,"S4TWL - Engineering Desktop (EDesk) (S4TWL item 10.4.7, SAP Note 2267868)",,pending,10.4.7,925
+EDESK_IPPE,,PLM,replaced,,none,"S4TWL - Engineering Desktop (EDesk) (S4TWL item 10.4.7, SAP Note 2267868)",,pending,10.4.7,925
+EDM1,,IND-Utilities,replaced,,none,"S4TWL - Monitoring Profile Value Import (S4TWL item 13.17.3, SAP Note 2270502)",,pending,13.17.3,1381
+EHSAMED,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBC02,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP11,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP12,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP13,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP31,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP32,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP33,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP41,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP42,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP43,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP51,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP52,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSBP53,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSCBER,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSCDCT,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSCMAS,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSEVAL00,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSEXIST0,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSH_C_NR_EXA_CO,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSH_C_NR_NEWPER,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSH_C_NR_RECN,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSH_C_NR_VAC_ID,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSH_D_CALPHYS,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSH_D_PCP,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSK_D_ACTION_STATUS,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSK_D_ASSPERSPROT,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSK_D_GEN_SERVERS,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSK_D_IAL,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSK_D_REP_GEN_QUEUE,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSK_D_REP_REQUESTS,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSK_D_RISK_ASSESS,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSK_D_SHIP_ORDERS,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSMQUEST01,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSPERSHC1,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSPP01,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EHSPRA,,EHS,replaced,,none,"S4TWL - Industrial Hygiene and EC interfaces (S4TWL item 9.1.20, SAP Note 2267781)",,pending,9.1.20,565
+EN99,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Part of the legacy foreign trade toolset that goes when SD-FT does. Intrastat, legal control and commodity code classification are redesigned in International Trade, so your equivalent work happens there.",reviewed,6.6.1,368
+EPODSRVC1,,IND-Utilities,replaced,,none,"S4TWL - Maintenance of non-billable Point of Delivery services (S4TWL item 13.17.15, SAP Note 2843756)",,pending,13.17.15,1394
+EPODSRVC2,,IND-Utilities,replaced,,none,"S4TWL - Maintenance of non-billable Point of Delivery services (S4TWL item 13.17.15, SAP Note 2843756)",,pending,13.17.15,1394
+EPODSRVC3,,IND-Utilities,replaced,,none,"S4TWL - Maintenance of non-billable Point of Delivery services (S4TWL item 13.17.15, SAP Note 2843756)",,pending,13.17.15,1394
+ESH_SEARCH,,CROSS,replaced,,none,"S4TWL - ENTERPRISE SEARCH (S4TWL item 3.1.2, SAP Note 2318521)",,pending,3.1.2,36
+ESPLOG,,IND-Automotive,deleted,,none,"S4TWL - External Service Providers (S4TWL item 13.2.2, SAP Note 2270357)",,pending,13.2.2,1048
+ESPLOGD,,IND-Automotive,deleted,,none,"S4TWL - External Service Providers (S4TWL item 13.2.2, SAP Note 2270357)",,pending,13.2.2,1048
+F0125,,CO,deleted,,none,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","The Cost Element fact sheet app is retired along with separate cost element master data. Cost elements are now G/L accounts with their own account types for primary and secondary costs, so you look them up through account-centric apps and G/L account maintenance.",reviewed,6.5.5,327
+F0126,,CO,deleted,,none,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","Cost element groups no longer have their own fact sheet app. With cost elements merged into the chart of accounts, grouping is handled through G/L account groups instead.",reviewed,6.5.5,327
+FCV1,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Building A/R summaries is obsolete work now. Credit exposure in S/4HANA is read from FI in real time through HANA views, so FCV1 and the summary it created both go, as part of the move to SAP Credit Management.",reviewed,6.3.1,268
+FCV2,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","With no A/R summary left to delete, FCV2 has nothing to do. Exposure is derived in real time under SAP Credit Management, which replaces the old FI-AR-CR component entirely.",reviewed,6.3.1,268
+FCV3,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Instead of pulling an early-warning list, you now get notified. Credit events in SAP Credit Management push exceptions straight to the credit analyst's worklist, replacing the FCV3 report.",reviewed,6.3.1,268
+FD01,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FD02,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FD03,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FD05,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FD06,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FD24,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Changing credit limits works differently now. The FSCM credit limit request process replaces FD24, with each change going through a documented decision.",reviewed,6.3.1,268
+FD32,,FI-AP,replaced,UKM_BP (SAP Credit Management),tcode,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Credit limits move out of FD32 and into SAP Credit Management, where UKM_BP is the transaction you use instead. Credit data now sits on the business partner, so you maintain a risk class once per partner rather than per customer and credit control area.",reviewed,6.3.1,268
+FD33,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Keep FD33 in mind for migration checks only. The simplification item is explicit that it is not a go-forward transaction, and credit master data now lives in SAP Credit Management on the business partner.",reviewed,6.3.1,268
+FDK43,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)",Your credit master data list has no one-to-one successor. FDK43 is replaced in practice by the credit profile and exposure views in SAP Credit Management.,reviewed,6.3.1,268
+FF-3,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Classic cash management, including FF-3, is not delivered with S/4HANA. The memo record and planning functions it covered are configured afresh in SAP S/4HANA Finance for cash management.",reviewed,6.11.17,447
+FF-4,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Not part of S/4HANA. FF-4 falls away with the classic FF* cash management set, and the equivalent capability is set up in the new cash management, with Bank Account Management a core part of the conversion.",reviewed,6.11.17,447
+FF-5,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",The classic cash management scope that FF-5 belonged to ends at conversion. You pick up the equivalent memo record and planning functions in SAP S/4HANA Finance for cash management.,reviewed,6.11.17,447
+FF-6,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","FF-6 retires with the rest of the old FF* transactions. S/4HANA Finance for cash management is the only compatible successor, so expect the function to be reconfigured rather than migrated.",reviewed,6.11.17,447
+FF69,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Memo records and planning move house. FF69 is part of the classic cash management set that is not delivered with S/4HANA, and the new cash management covers the equivalent ground.",reviewed,6.11.17,447
+FF70,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",Another classic cash management code that stops at the S/4HANA boundary. FF70's territory is reconfigured inside SAP S/4HANA Finance for cash management.,reviewed,6.11.17,447
+FF71,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Out of scope in S/4HANA. FF71 goes with classic Cash and Liquidity Management, and its functions are configured in the new cash management instead.",reviewed,6.11.17,447
+FF72,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Ends with the classic FF* set. What FF72 did is covered by SAP S/4HANA Finance for cash management once that is implemented, and Bank Account Management becomes a core workstream of the conversion.",reviewed,6.11.17,447
+FF7A,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Your cash position moves to new screens. FF7A is superseded by the Cash Position apps and, from release 1809, the consolidated Cash Flow Analyzer app.",reviewed,6.11.17,447
+FF7B,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Liquidity forecasting leaves FF7B behind. The Liquidity Forecast apps take over on the new cash management data model, with the Cash Flow Analyzer arriving later as the consolidated view.",reviewed,6.11.17,447
+FF7F,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",Part of the classic FF* set that does not ship with S/4HANA. FF7F's capability is configured in the new cash management as part of the conversion.,reviewed,6.11.17,447
+FFTL,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Retired with classic Cash and Liquidity Management. FFTL has no direct carry-over, and the equivalent function is set up in SAP S/4HANA Finance for cash management.",reviewed,6.11.17,447
+FFZK,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Classic cash management takes FFZK with it. Plan for the equivalent capability inside the new cash management, alongside the Bank Account Management implementation the conversion requires.",reviewed,6.11.17,447
+FI-ARI,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","This is a component name rather than a transaction code, picked up by the parser. The FI-ARI external credit interface is retired as a whole, with SAP Credit Management taking over credit data on the business partner.",reviewed,6.3.1,268
+FI-GL,,IND-Public Sector,deleted,,none,"S4TWL - Funds Management Dimensions as part of the Universal Journal (S4TWL item 13.14.5, SAP Note 2270449)",,pending,13.14.5,1279
+FK01,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FK02,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FK03,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FK05,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FK06,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+FLQAB,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","The Liquidity Planner toolset is retired, FLQAB included. Actual liquidity calculation and assignment are redesigned inside the new cash management rather than carried over as they were.",reviewed,6.11.17,447
+FLQAC,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Liquidity Planner ends in S/4HANA, so FLQAC goes with it. The calculation and assignment of actual liquidity is rebuilt within SAP S/4HANA Finance for cash management.",reviewed,6.11.17,447
+FLQAD,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Withdrawn with the Liquidity Planner. FLQAD's role in actual liquidity assignment is redesigned inside the new cash management, not migrated one to one.",reviewed,6.11.17,447
+FLQAF,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","One of the retired Liquidity Planner codes. Where FLQAF sat in your process, the new cash management's redesigned actual-liquidity handling takes over.",reviewed,6.11.17,447
+FLQAL,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Belongs to the Liquidity Planner, which does not survive conversion. FLQAL's function reappears in redesigned form inside SAP S/4HANA Finance for cash management.",reviewed,6.11.17,447
+FLQAM,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",Actual liquidity assignment through FLQAM stops when the Liquidity Planner is retired. The new cash management redesigns this rather than carrying the old transaction across.,reviewed,6.11.17,447
+FLQAM_TP,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Retired alongside the rest of the Liquidity Planner toolset. FLQAM_TP has no one-to-one successor, and the capability is rebuilt inside the new cash management.",reviewed,6.11.17,447
+FLQC10,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",Liquidity Planner codes like FLQC10 end at conversion. Expect the actual-liquidity side to be redesigned within SAP S/4HANA Finance for cash management.,reviewed,6.11.17,447
+FLQC12,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",No longer part of the picture once Liquidity Planner is retired. FLQC12's work is redesigned inside the new cash management rather than transferred.,reviewed,6.11.17,447
+FLQC13,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",FLQC13 goes with the Liquidity Planner. In S/4HANA the equivalent calculation and assignment logic is built into the new cash management instead.,reviewed,6.11.17,447
+FLQC13F,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","Removed with the Liquidity Planner toolset. FLQC13F is not carried over, and actual-liquidity handling is redesigned in SAP S/4HANA Finance for cash management.",reviewed,6.11.17,447
+FLQC1A,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","When Liquidity Planner retires, FLQC1A retires with it. Its territory is covered by the redesigned actual-liquidity functions in the new cash management.",reviewed,6.11.17,447
+FLQC2,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","This Liquidity Planner code ends in S/4HANA. Actual liquidity calculation moves into the new cash management in redesigned form, so plan configuration work rather than a straight swap.",reviewed,6.11.17,447
+FLQC20,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)","The final member of the Liquidity Planner set in this list. FLQC20 is retired, and its function is redesigned inside SAP S/4HANA Finance for cash management.",reviewed,6.11.17,447
+FMADB_CREATE_FYV,,IND-Public Sector,deleted,,none,"S4TWL - Functionality Average Daily Balance-based Distribution (S4TWL item 13.14.11, SAP Note 2270466)",,pending,13.14.11,1288
+FMADB_CUSTOM,,IND-Public Sector,deleted,,none,"S4TWL - Functionality Average Daily Balance-based Distribution (S4TWL item 13.14.11, SAP Note 2270466)",,pending,13.14.11,1288
+FMADB_POST,,IND-Public Sector,deleted,,none,"S4TWL - Functionality Average Daily Balance-based Distribution (S4TWL item 13.14.11, SAP Note 2270466)",,pending,13.14.11,1288
+FMADB_TRACE,,IND-Public Sector,deleted,,none,"S4TWL - Functionality Average Daily Balance-based Distribution (S4TWL item 13.14.11, SAP Note 2270466)",,pending,13.14.11,1288
+FMEUFDD,,IND-Public Sector,deleted,,none,"S4TWL - Expenditure Certification (S4TWL item 13.14.4, SAP Note 2270418)",,pending,13.14.4,1278
+FMEUFLP1,,IND-Public Sector,deleted,,none,"S4TWL - Expenditure Certification (S4TWL item 13.14.4, SAP Note 2270418)",,pending,13.14.4,1278
+FMEUFLP2,,IND-Public Sector,deleted,,none,"S4TWL - Expenditure Certification (S4TWL item 13.14.4, SAP Note 2270418)",,pending,13.14.4,1278
+FMHIE_CHANGE,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_CHKINCONDATA,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_CHKINCONDISTR,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_COPY,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_DELETE,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_DISPLAY,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_EXPORT,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_GENERATION,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_HIEID,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FMHIE_IMPORT,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for BCS Multi-level Budget Structure (S4TWL item 13.14.7, SAP Note 2270464)",,pending,13.14.7,1282
+FPS0,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+FRML02,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+FRML03,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+FRML04,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+GDP_MM_EKKO_WRITE,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+GENC,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+IAC,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+IMG,,MDM,deleted,,none,"S4TWL - Business Partner Hierarchy Not Available (S4TWL item 5.1.19, SAP Note 2409939)",,pending,5.1.19,121
+IQS8,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+IQS8WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+IQS9,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+IQS9WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+ISA,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+ISAUTO_SICASN1,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICASN2,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICASN3,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICASN4,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICBC,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICCO,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICDDL1,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICENG,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICIV,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICJIT,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICPDI,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICPH,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICPI,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICRL,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICRLRD,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICRPM,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISAUTO_SICSR,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISA_CAT_REPLICATION,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+ISA_CAT_REPL_DELETE,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+ISA_SICALERT,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISA_SICKANBAN,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_CP,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_CS,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_ESP,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_OEPM,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_POD,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_PUL,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_SM,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_SUMJIT,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIPI_TRACK,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISIT_PR,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISI_BCI,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISI_BCO,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISI_POD,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+ISI_PR,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+KA01,,CO,deleted,,none,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","Creating a primary cost element is now a G/L account task. The account master carries the cost element category in S/4HANA, so KA01 is retired and you work in G/L account maintenance instead.",reviewed,6.5.5,327
+KA02,,CO,deleted,,none,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","Editing cost elements moves into G/L account maintenance, where the account master now holds the cost element category. KA02 is removed, so any changes you used to make there happen on the account.",reviewed,6.5.5,327
+KA03,,CO,deleted,,none,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","To look up a cost element, open the G/L account instead. Separate cost element master data ends in S/4HANA, taking KA03 with it, and the account master shows the cost element category.",reviewed,6.5.5,327
+KA06,,CO,deleted,,none,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","Secondary cost elements are created as G/L accounts now, using the new account types for secondary costs. KA06 is retired, and the whole maintenance flow sits in G/L account maintenance.",reviewed,6.5.5,327
+KB11N,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Keep using KB11N as you do today. It appears in the simplification item only as the covering transaction for the retired parallel ABC variant KB11NP, not as a removal.",reviewed,6.5.2,320
+KB11NP,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","The parallel ABC variant KB11NP goes away. Post through KB11N instead, where the business process is a standard account assignment, since delta-version ABC does not exist in S/4HANA.",reviewed,6.5.2,320
+KB13N,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","No action needed on your side for KB13N. It appears in the Simplification List only as the covering transaction for the retired KB13NP parallel ABC variant, and continues unchanged itself.",reviewed,6.5.2,320
+KB13NP,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","KB13NP disappears together with parallel Activity-Based Costing on delta versions. Its work folds into KB13N, where the business process is handled as a standard account assignment.",reviewed,6.5.2,320
+KB14N,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","You will find KB14N in the Simplification List, but only because it absorbs its retired parallel ABC variant KB14NP. The transaction itself stays current in S/4HANA.",reviewed,6.5.2,320
+KB14NP,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","This parallel ABC posting variant is retired. Use KB14N, which treats the business process as a normal account assignment, because delta versions and parallel ABC are gone from S/4HANA.",reviewed,6.5.2,320
+KB21N,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","KB21N carries on unchanged. Its Simplification List entry exists only to cover the removal of the parallel ABC variant KB21NP, so treat the listing as informational.",reviewed,6.5.2,320
+KB21NP,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Posting through the KB21NP parallel ABC variant ends in S/4HANA. Switch to KB21N, where the business process is simply a standard account assignment on the posting.",reviewed,6.5.2,320
+KB23N,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","There is no change to KB23N itself. The Simplification List names it as the successor that covers the retired KB23NP variant, and only the parallel ABC side disappears.",reviewed,6.5.2,320
+KB23NP,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","With delta versions gone entirely, the KB23NP variant has no purpose left. Its postings move to KB23N as standard account assignments on the business process.",reviewed,6.5.2,320
+KB24N,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","KB24N remains a current transaction. It is listed in the simplification item purely as cover for KB24NP, the parallel ABC variant that is being retired.",reviewed,6.5.2,320
+KB24NP,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","One less code to remember here. KB24NP is retired with parallel Activity-Based Costing, and KB24N handles the same posting with the business process as a standard account assignment.",reviewed,6.5.2,320
+KE27,,CO,deleted,,none,"S4TWL - Profitability Analysis (S4TWL item 6.5.11, SAP Note 2349278)","Periodic valuation as KE27 ran it belongs to costing-based CO-PA and has no counterpart in Margin Analysis. SAP's direction is to cover the requirement in Margin Analysis, paired with event-based revenue recognition, and keep costing-based CO-PA switched off where you can.",reviewed,6.5.11,351
+KK16,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","If you changed cost object plans by cost element and activity in KK16, that planning object no longer exists. S/4HANA drops general cost objects altogether, and internal orders or product cost collectors take their place.",reviewed,6.5.3,324
+KK17,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","There is nothing left for KK17 to display. Cost object planning disappears with general cost objects, which S/4HANA does not support, so plan on internal orders or product cost collectors instead.",reviewed,6.5.3,324
+KK46,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Planning statistical key figures on cost objects stops with KK46, because the general cost object is removed from S/4HANA. Internal orders or product cost collectors are where SAP expects that planning to live now.",reviewed,6.5.3,324
+KK47,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","The display side of statistical key figure planning for cost objects goes too. With general cost objects removed, KK47 has nothing to show, and the equivalent view sits on internal orders or product cost collectors.",reviewed,6.5.3,324
+KK88,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Settling cost objects is no longer a task in S/4HANA. KK88 disappears with the general cost object itself, so settlements run on internal orders or product cost collectors from now on.",reviewed,6.5.3,324
+KK89,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Collective settlement of cost objects ends along with the objects being settled. If your period close ran KK89, that step drops out and the equivalent work happens on internal orders or product cost collectors.",reviewed,6.5.3,324
+KKB4,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","Itemisation display for base planning objects goes when reference and simulation costing does. S/4HANA drops the whole scope, so use CKECP for ad hoc cost estimates and CKUC for multilevel material estimates, and get the old code taken out of your roles.",reviewed,6.5.7,332
+KKBC_HOE,,CO,deleted,,none,"S4TWL - Summarization Hierarchies in Controlling (S4TWL item 6.5.12, SAP Note 2349282)","Your summarisation hierarchy report changes shape. KKBC_HOE and its pre-aggregated totals give way to KKBC_HOE_H, which aggregates the KKR0 hierarchy at runtime, though target costs and variances need pre-calculating via KKS1 or KKS1H.",reviewed,6.5.12,356
+KKBC_HOE_H,,CO,available,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",,reviewed,6.5.3,324
+KKBC_KTR,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Cost object analysis via KKBC_KTR has no successor screen, because the objects it analysed are gone. Reporting shifts to internal orders or product cost collectors, with runtime order hierarchies covering aggregation.",reviewed,6.5.3,324
+KKC1,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","You cannot create general cost objects in S/4HANA, so KKC1 goes with them. Set up internal orders or product cost collectors for anything you would have modelled this way.",reviewed,6.5.3,324
+KKC2,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Changing a general cost object is off the table, since the object type itself is removed. KKC2 ends, and ongoing maintenance happens on internal orders or product cost collectors instead.",reviewed,6.5.3,324
+KKC3,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","With general cost objects removed from S/4HANA, KKC3 has nothing to display. Whatever you tracked on them needs re-modelling as internal orders or product cost collectors.",reviewed,6.5.3,324
+KKC4,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Creating cost object plans stops here. General cost objects are not part of S/4HANA, so KKC4 is retired and planning moves to internal orders or product cost collectors.",reviewed,6.5.3,324
+KKC5,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Cost object plan changes and line item views end with KKC5, because S/4HANA drops general cost objects entirely. Internal orders or product cost collectors carry that planning going forward.",reviewed,6.5.3,324
+KKC6,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Displaying cost object plans is no longer possible once general cost objects are removed. KKC6 goes, and the equivalent plan views live on internal orders or product cost collectors.",reviewed,6.5.3,324
+KKC7,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Cost-object product groups cannot be created in S/4HANA. KKC7 is removed with the whole general cost object scope, and internal orders or product cost collectors are the replacement pattern.",reviewed,6.5.3,324
+KKC8,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Editing cost-object product groups ends when the underlying objects do. KKC8 disappears, so any grouping you relied on needs rebuilding around internal orders or product cost collectors.",reviewed,6.5.3,324
+KKC9,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","The display transaction for cost-object product groups falls away with the rest of the general cost object scope. KKC9 is gone, and reporting moves onto internal orders or product cost collectors.",reviewed,6.5.3,324
+KKE1,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","You can no longer create base planning objects, as reference and simulation costing is not supported in S/4HANA. CKECP covers ad hoc cost estimates and CKUC covers multilevel material cost estimates instead.",reviewed,6.5.7,332
+KKE2,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","Changing base planning objects ends with the reference and simulation costing scope. KKE2 is removed, so switch to CKECP for quick estimates or CKUC for multilevel material costing.",reviewed,6.5.7,332
+KKE3,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","Base planning objects cannot be displayed once the scope is removed. KKE3 goes, with CKECP and CKUC named as the alternatives, and SAP advises removing the old codes from roles.",reviewed,6.5.7,332
+KKEB,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","Revaluing base planning objects is finished in S/4HANA. The reference and simulation costing scope ends entirely, and CKECP or CKUC is where the equivalent estimating work happens.",reviewed,6.5.7,332
+KKEC,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","Comparing a base planning object against other unit cost estimates is no longer possible, because base planning objects themselves are removed. Ad hoc comparisons move to CKECP, with CKUC for multilevel material estimates.",reviewed,6.5.7,332
+KKED,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)",The costed multilevel BOM explosion for base planning objects disappears with the objects. Use CKUC for multilevel material cost estimates and CKECP when you need a quick ad hoc estimate.,reviewed,6.5.7,332
+KKH1,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Cost object groups cannot be created any more, since the objects they grouped are removed from S/4HANA. KKH1 ends, and internal orders or product cost collectors take over.",reviewed,6.5.3,324
+KKH2,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Maintaining cost object groups stops with KKH2. General cost objects are out of scope in S/4HANA, so re-model the structure on internal orders or product cost collectors.",reviewed,6.5.3,324
+KKH3,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Viewing cost object groups is finished once the group concept goes. KKH3 is removed with the general cost object scope, and equivalent structures sit on internal orders or product cost collectors.",reviewed,6.5.3,324
+KKN1,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Revaluing cost objects at actual prices ends in S/4HANA. KKN1 disappears with general cost objects, so run that revaluation logic on internal orders or product cost collectors instead.",reviewed,6.5.3,324
+KKN2,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","The collective revaluation run for cost objects goes the same way as the objects themselves. KKN2 is removed, and internal orders or product cost collectors carry actual-price revaluation now.",reviewed,6.5.3,324
+KKP2,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Hierarchy master records are a thing of the past. KKP2 goes because order hierarchies in S/4HANA are derived on the fly from order master fields, with no master record to maintain.",reviewed,6.5.3,324
+KKP4,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","There is no hierarchy master left for KKP4 to display. Order hierarchies are now built dynamically from order master data, so the display transaction is retired.",reviewed,6.5.3,324
+KKPH,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Collective entry for general cost objects ends when the object type does. KKPH is removed, and S/4HANA expects internal orders or product cost collectors in its place.",reviewed,6.5.3,324
+KKPHIE,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Cost object hierarchy processing is removed outright. Instead of KKPHIE, build order hierarchies with KKR0 and analyse them at runtime through KKBC_HOE_H.",reviewed,6.5.3,324
+KKPJ,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","The collective overhead allocation run for cost objects drops out of S/4HANA along with the objects themselves. Where KKPJ ran in your close, overhead now applies to internal orders or product cost collectors.",reviewed,6.5.3,324
+KKPZ,,CO,deleted,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Overhead allocation for cost objects ends here, because general cost objects are not supported in S/4HANA. Move that allocation onto internal orders or product cost collectors.",reviewed,6.5.3,324
+KKR0,,CO,available,,none,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",,reviewed,6.5.3,324
+KKRC,,CO,deleted,,none,"S4TWL - Summarization Hierarchies in Controlling (S4TWL item 6.5.12, SAP Note 2349282)","Your period-close data collection run disappears, and not because it moved. KKBC_HOE_H now aggregates the hierarchy on the fly, so KKRC has no job left, though you need KKS1 or KKS1H to calculate target costs and variances beforehand.",reviewed,6.5.12,356
+KSC1-3,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","These codes are current in S/4HANA. They appear in the dataset because the Simplification List names KSC1 to KSC3 as successors to the retired CP* activity-based costing transactions, so keep using them as normal.",reviewed,6.5.2,320
+KSC5,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Carry on using KSC5. It was captured from the successor column of the simplification item, where it replaces the retired ABC transaction CPC5, and it remains fully current.",reviewed,6.5.2,320
+KSII,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Activity price calculation via KSII is the go-forward transaction, not a removal. It appears here as the named successor to the retired ABC code CPII.",reviewed,6.5.2,320
+KSU1-3,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Successor codes, not casualties. KSU1 to KSU3 replace the retired CPP1 to CPP3 assessment transactions from the ABC scope and remain current in S/4HANA.",reviewed,6.5.2,320
+KSU5,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","This one is the replacement, not the replaced. KSU5 takes over from the retired ABC assessment run CPP5 and continues as a current transaction.",reviewed,6.5.2,320
+KSV1-3,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)",Nothing to change in your routine here. KSV1 to KSV3 are the named successors to the retired CPV1 to CPV3 distribution cycle transactions and stay current in S/4HANA.,reviewed,6.5.2,320
+KSV5,,CO,replaced,,none,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","You keep your distribution run. KSV5 is listed as the successor to the retired ABC code CPV5, and the transaction itself is fully current in S/4HANA.",reviewed,6.5.2,320
+LPO_BOM_GETDETAIL,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+LPO_DEMANDS_GETLIST,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+LPO_ITEM_GETDETAIL,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+LPO_MATDATA_FIND,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+LPO_PLANT_GETLIST,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+LPO_PRODCONF_CREATE,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+LPO_ROUTE_GEDETAIL,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+LPO_STOCK_GETLIST,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+LPO_WORKCENTER_FIND,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+MAP1,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MAP2,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MAP3,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MCTA,,SD,deleted,,none,"S4TWL - Simplification in SD Analytics (S4TWL item 11.1.16, SAP Note 2267348)",,pending,11.1.16,1018
+MCTC,,SD,deleted,,none,"S4TWL - Simplification in SD Analytics (S4TWL item 11.1.16, SAP Note 2267348)",,pending,11.1.16,1018
+MCTE,,SD,deleted,,none,"S4TWL - Simplification in SD Analytics (S4TWL item 11.1.16, SAP Note 2267348)",,pending,11.1.16,1018
+MCTG,,SD,deleted,,none,"S4TWL - Simplification in SD Analytics (S4TWL item 11.1.16, SAP Note 2267348)",,pending,11.1.16,1018
+MCTI,,SD,deleted,,none,"S4TWL - Simplification in SD Analytics (S4TWL item 11.1.16, SAP Note 2267348)",,pending,11.1.16,1018
+MCTK,,SD,deleted,,none,"S4TWL - Simplification in SD Analytics (S4TWL item 11.1.16, SAP Note 2267348)",,pending,11.1.16,1018
+MDAB,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+MDRE,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+ME69,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+MEB1,,IND-Retail,replaced,,none,"S4TWL - Subsequent Settlement - Vendor Rebate Arrangements (S4TWL item 13.15.8, SAP Note 2267415)",,pending,13.15.8,1302
+MEB7,,IND-Retail,replaced,,none,"S4TWL - Subsequent Settlement - Vendor Rebate Arrangements (S4TWL item 13.15.8, SAP Note 2267415)",,pending,13.15.8,1302
+MEBH,,IND-Retail,replaced,,none,"S4TWL - Subsequent Settlement - Vendor Rebate Arrangements (S4TWL item 13.15.8, SAP Note 2267415)",,pending,13.15.8,1302
+MEBV,,IND-Retail,replaced,,none,"S4TWL - Subsequent Settlement - Vendor Rebate Arrangements (S4TWL item 13.15.8, SAP Note 2267415)",,pending,13.15.8,1302
+MEW0,,MM-PUR,deleted,,none,"S4TWL - Internet Application Components (IAC) (S4TWL item 14.2.3, SAP Note 2267441)",,pending,14.2.3,1413
+MEW1,,MM-PUR,deleted,,none,"S4TWL - Internet Application Components (IAC) (S4TWL item 14.2.3, SAP Note 2267441)",,pending,14.2.3,1413
+MEW2,,MM-PUR,deleted,,none,"S4TWL - Internet Application Components (IAC) (S4TWL item 14.2.3, SAP Note 2267441)",,pending,14.2.3,1413
+MEW3,,MM-PUR,deleted,,none,"S4TWL - Internet Application Components (IAC) (S4TWL item 14.2.3, SAP Note 2267441)",,pending,14.2.3,1413
+MEW5,,MM-PUR,deleted,,none,"S4TWL - Internet Application Components (IAC) (S4TWL item 14.2.3, SAP Note 2267441)",,pending,14.2.3,1413
+MEW6,,MM-PUR,deleted,,none,"S4TWL - Internet Application Components (IAC) (S4TWL item 14.2.3, SAP Note 2267441)",,pending,14.2.3,1413
+MEWP,,MM-PUR,deleted,,none,"S4TWL - Internet Application Components (IAC) (S4TWL item 14.2.3, SAP Note 2267441)",,pending,14.2.3,1413
+MK01,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MK02,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MK03,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MK05,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MK06,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MK12,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MK18,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MK19,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+MM-SD,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+MMLS,,IND-Automotive,replaced,,none,"S4TWL - Material Version (S4TWL item 13.2.5, SAP Note 2270398)",,pending,13.2.5,1053
+MMPI,,MM-IM,deleted,,none,"S4TWL - Material Ledger Obligatory for Material Valuation (S4TWL item 15.3.2, SAP Note 2267834)",,pending,15.3.2,1467
+MM_EKKO,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+MPX,,PPM,deleted,,none,"S4TWL - Selected Project System Interfaces (S4TWL item 10.1.27, SAP Note 2267288)",,pending,10.1.27,865
+MRP,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+MRTRSC01,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+MRTRSC02,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+MRTRS_START,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+MS22,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+MS23,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+MSAB,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+MSAC,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+MSC1,,MDM,deleted,,none,"S4TWL - Logistics Batch Management (S4TWL item 5.1.8, SAP Note 2267298)",,pending,5.1.8,104
+MSC2,,MDM,deleted,,none,"S4TWL - Logistics Batch Management (S4TWL item 5.1.8, SAP Note 2267298)",,pending,5.1.8,104
+MSC3,,MDM,deleted,,none,"S4TWL - Logistics Batch Management (S4TWL item 5.1.8, SAP Note 2267298)",,pending,5.1.8,104
+MSC4,,MDM,deleted,,none,"S4TWL - Logistics Batch Management (S4TWL item 5.1.8, SAP Note 2267298)",,pending,5.1.8,104
+NETUS_ER,,FI-GRC,deleted,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Not a real code by the look of it. This is almost certainly a line-wrap fragment of WB2B_NETUSER, the obsolete web user transaction, so treat that record as the authoritative one.",reviewed,6.6.2,376
+O021,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+O023,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+O024,,PLM,deleted,,none,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+O300,,IND-Oil and Gas,replaced,SE43,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O3C1,,IND-Oil and Gas,replaced,O3DEFAULTS,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O3C2,,IND-Oil and Gas,replaced,O3DEFAULTS,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4KC,,IND-Oil and Gas,replaced,No Replacement available,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4KE,,IND-Oil and Gas,replaced,No Replacement available,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4KG,,IND-Oil and Gas,replaced,No Replacement available,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4KH,,IND-Oil and Gas,replaced,No Replacement available,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4KI,,IND-Oil and Gas,replaced,No Replacement available,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4NC,,IND-Oil and Gas,replaced,O4NCN/O4NM,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4NS,,IND-Oil and Gas,replaced,O4NSN/O4NM,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4NV,,IND-Oil and Gas,replaced,O4NM,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4T0,,IND-Oil and Gas,replaced,No Replacement available,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4TC,,IND-Oil and Gas,replaced,O4TCN,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4TCB,,IND-Oil and Gas,replaced,O4TCN,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4TDL,,IND-Oil and Gas,replaced,O402,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4TE,,IND-Oil and Gas,replaced,O4TENREV,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4TF,,IND-Oil and Gas,replaced,O4TFN,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+O4TG,,IND-Oil and Gas,replaced,O4TGN,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+OAGZ,,SD,replaced,n/a,tcode,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+OESP,,IND-Automotive,deleted,,none,"S4TWL - External Service Providers (S4TWL item 13.2.2, SAP Note 2270357)",,pending,13.2.2,1048
+OK30,,IND-High Tech,replaced,,none,"S4TWL - Software Maintenance Processing (S4TWL item 13.8.7, SAP Note 2270852)",,pending,13.8.7,1117
+OK32,,IND-High Tech,replaced,,none,"S4TWL - Software Maintenance Processing (S4TWL item 13.8.7, SAP Note 2270852)",,pending,13.8.7,1117
+OK36,,IND-High Tech,replaced,,none,"S4TWL - Software Maintenance Processing (S4TWL item 13.8.7, SAP Note 2270852)",,pending,13.8.7,1117
+OKB9,,CO,available,,none,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)",,reviewed,6.5.5,327
+OM0F,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+OPENPS,,PPM,deleted,,none,"S4TWL - Selected Project System Interfaces (S4TWL item 10.1.27, SAP Note 2267288)",,pending,10.1.27,865
+OPPE07,,PLM,deleted,,none,"S4TWL - iPPE Time Analysis (S4TWL item 10.4.10, SAP Note 2268018)",,pending,10.4.10,929
+OS72,,PLM,deleted,,none,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
+OS73,,PLM,deleted,,none,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
+OT48,,FI-TRM,replaced,,none,"S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",Configuration for classic cash management is superseded. OT48 gives way to the new general settings under Cash and Liquidity Management in S/4HANA.,reviewed,6.11.17,447
+OVACT,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","Activating SD revenue recognition is configuration you will not do again. The module is removed outright in S/4HANA, and the equivalent setup happens inside SAP Revenue Accounting and Reporting.",reviewed,6.2.2,252
+OVE1,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Another of the SD-FT maintenance and reporting codes that fall away with the module. The redesigned home for Intrastat, legal control and commodity code work is International Trade in S/4HANA.",reviewed,6.6.1,368
+OVEP,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","Item category configuration for SD revenue recognition ends with the module itself. RAR is the successor, and the equivalent settings are maintained there.",reviewed,6.2.2,252
+PASW,,IND-High Tech,replaced,,none,"S4TWL - Installed Base Management for IS-SW (S4TWL item 13.8.8, SAP Note 2270849)",,pending,13.8.8,1118
+PDCE,,PLM,replaced,,none,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
+PDN,,PLM,deleted,,none,"S4TWL - Product Designer Workbench (S4TWL item 10.4.2, SAP Note 2267841)",,pending,10.4.2,920
+PEG01,,IND-Aerospace and Defense,replaced,,none,"S4TWL - Collective Processing Pegging (S4TWL item 13.1.1, SAP Note 2270832)",,pending,13.1.1,1028
+PEG01N,,IND-Aerospace and Defense,replaced,,none,"S4TWL - Collective Processing Pegging (S4TWL item 13.1.1, SAP Note 2270832)",,pending,13.1.1,1028
+PEG12,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+PEG13,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+PEG15,,IND-Aerospace and Defense,deleted,,none,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
+PFSE,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+PKW1,,PP,deleted,,none,"S4TWL - Internet Kanban (S4TWL item 9.3.1, SAP Note 2268082)",,pending,9.3.1,606
+PMEVC,,PLM,deleted,,none,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+POF,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Probably a parsing artefact rather than a transaction. This looks like a fragment of the POFO1 to POFO3 portfolio family, whose successors are POFO31 to POFO33.",reviewed,6.6.2,376
+POFO,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Likely a truncated capture of the POFO1 to POFO3 family from a line wrap in the source. See those records, which map to successors POFO31 to POFO33.",reviewed,6.6.2,376
+POFO1,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Portfolio processing moves from POFO1 to POFO31, its named successor in the simplification item's mapping table.",reviewed,6.6.2,376
+POFO2,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",SAP's successor table points POFO2 users to POFO32. The old code is retired as Global Trade Management moves onto its simplified data model.,reviewed,6.6.2,376
+POFO3,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Swap POFO3 for POFO33, the successor named in the item's portfolio mapping. The change comes with GTM's rebuilt data model in S/4HANA.",reviewed,6.6.2,376
+POFO31,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","A successor, not a removal. POFO31 replaces POFO1 in the GTM portfolio mapping and remains a current transaction.",reviewed,6.6.2,376
+POFO32,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Current and here to stay. POFO32 appears in this dataset as the mapped successor to POFO2, captured from the item's successor table.",reviewed,6.6.2,376
+POFO33,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Still current in S/4HANA. POFO33 is the named successor for POFO3 in the portfolio mapping, so it is the code you should be using.",reviewed,6.6.2,376
+PPECS,,PLM,deleted,,none,"S4TWL - IPPE-BOM Converter (S4TWL item 10.4.25, SAP Note 2267879)",,pending,10.4.25,947
+PPH_MDAB,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+PPH_MSAB,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+PPH_MSAC,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+PX01,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+PX02,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+PX03,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+PX04,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+PX05,,CROSS,replaced,,none,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
+QA32,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QA32WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QE09,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QE09WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QEH1,,QM,deleted,,none,"S4TWL - Results Recording (S4TWL item 9.6.5, SAP Note 2270124)",,pending,9.6.5,819
+QM10,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QM10WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QM13,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QM13WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QPIQS8,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QPIQS9,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QPQA32,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QPQGC1,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QPQM10,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QPQM13,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+REVERSE,,IND-Oil and Gas,replaced,O4TENREV,tcode,"S4TWL - Handling Oil & Gas obsolete t-codes Oil (S4TWL item 13.13.24, SAP Note 2328674)",,pending,13.13.24,1244
+RFACTS1_BL,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFACTS1_FILE_SEND,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFACTS2_BL,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFACTS2_EDITS,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFACTS2_EXTRACT,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFACTS2_FILE_SEND,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFACTS2_FOOTNOTE,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFACTS2_MAF,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFACTS2_UPLMAF,,IND-Public Sector,deleted,,none,"S4TWL - Functionality for FACTS I and FACTS II (Federal Agencies (S4TWL item 13.14.8, SAP Note 2270415)",,pending,13.14.8,1284
+RFARI020,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Extracting credit master data via RFARI020 ends when the external credit interface does. No direct successor is named, as SAP Credit Management holds credit data on the business partner instead.",reviewed,6.3.1,268
+RFARI030,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","The import side of the old external credit interface retires along with RFARI030. SAP names no direct successor, since credit master data now sits in SAP Credit Management.",reviewed,6.3.1,268
+RFDFILZE,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)",Branch and head office credit reconciliation stops being a report you run. Higher and lower business partner relationships in SAP Credit Management aggregate exposure instead of RFDFILZE.,reviewed,6.3.1,268
+RLMFW_CUST,,PLM,deleted,,none,"S4TWL - Release Management Framework (S4TWL item 10.4.11, SAP Note 2268042)",,pending,10.4.11,930
+RLMFW_NUM,,PLM,deleted,,none,"S4TWL - Release Management Framework (S4TWL item 10.4.11, SAP Note 2268042)",,pending,10.4.11,930
+RLMFW_OOCU,,PLM,deleted,,none,"S4TWL - Release Management Framework (S4TWL item 10.4.11, SAP Note 2268042)",,pending,10.4.11,930
+RMDBVM00,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+RMDBVM10,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+RMMDVL10,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+RMMDVL20,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+RMMDVM10,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+RMMDVM20,,PP,replaced,,none,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
+RMSL02,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+RMSL03,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+RMSTAT,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+RMWB,,PLM,replaced,,none,"S4TWL - Recipe Management (S4TWL item 10.4.22, SAP Note 2267863)",,pending,10.4.22,944
+RWB2B001,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","The trading contract document overview report is obsolete. Its transaction WB24 maps to WBRR, running report RWB2BREL, on GTM's simplified data model.",reviewed,6.6.2,376
+RWB2B006,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",Obsolete with no successor named. The trading contract financial documents report ends as GTM moves to its rebuilt data model in S/4HANA.,reviewed,6.6.2,376
+RWB2BM,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Read this as RWB2BMAS cut short by a line wrap. That mass processing report sits on the successor side of the GTM mapping, under transaction WB24N, rather than being a removal.",reviewed,6.6.2,376
+RWB2BRE,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Best read as a truncated RWB2BREL. That report is the successor for follow-on document processing in GTM, so this entry is successor-side rather than a removal.",reviewed,6.6.2,376
+RWB2DI001,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Differential invoicing left GTM some time ago. This report belongs to that removed capability, which moved to Commodity Management back in ERP EHP7.",reviewed,6.6.2,376
+RWB2DI002,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Part of GTM differential invoicing, which is removed. Commodity Management has carried differential invoicing since ERP EHP7, and that is where the capability lives in S/4HANA.",reviewed,6.6.2,376
+RWB2DI003,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",Removed along with GTM differential invoicing. The function itself moved across to Commodity Management as far back as ERP EHP7.,reviewed,6.6.2,376
+RWB2DI004,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Another of the GTM differential invoicing reports that end in S/4HANA. Look to Commodity Management, which took over differential invoicing in ERP EHP7.",reviewed,6.6.2,376
+RWLF10,,SD,replaced,,none,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+RWLF1051,,SD,replaced,,none,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+SEM,,IND-Banking,replaced,,none,"S4TWL - SEM Banking (S4TWL item 13.3.2, SAP Note 2270318)",,pending,13.3.2,1083
+SER,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",Very likely a fragment from the item's successor table rather than a genuine transaction code. Verify against the Simplification List before treating this as a real removal.,reviewed,6.6.2,376
+SIC_MA,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+SIC_MD,,IND-Automotive,replaced,,none,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
+SIS,,SD,deleted,,none,"S4TWL - Simplification in SD Analytics (S4TWL item 11.1.16, SAP Note 2267348)",,pending,11.1.16,1018
+SMP,,IND-High Tech,replaced,,none,"S4TWL - Software Maintenance Processing (S4TWL item 13.8.7, SAP Note 2270852)",,pending,13.8.7,1117
+SPC,,IND-High Tech,deleted,,none,"S4TWL - Manufacturing Execution Systems (S4TWL item 13.8.2, SAP Note 2383042)",,pending,13.8.2,1112
+STEP10,,PLM,deleted,,none,"S4TWL - DMS - STEP Support (S4TWL item 10.4.23, SAP Note 2267870)",,pending,10.4.23,946
+STEP20,,PLM,deleted,,none,"S4TWL - DMS - STEP Support (S4TWL item 10.4.23, SAP Note 2267870)",,pending,10.4.23,946
+S_AL0_96000015,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_ALR_87012215,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)",Change document reporting on credit data retires together with the old KNKK and KNKA tables it read. Equivalent tracking happens inside SAP Credit Management on the business partner.,reviewed,6.3.1,268
+S_ALR_87012218,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)",The credit master sheet is replaced by business partner centred credit profile views in SAP Credit Management. The old report goes with the FI-AR-CR component.,reviewed,6.3.1,268
+S_ALR_87013028,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","This overview report loses its subject matter, since base planning objects do not exist in S/4HANA. Estimating work moves to CKECP and CKUC, and the report should come out of your roles.",reviewed,6.5.7,332
+S_ALR_87013029,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","The where-used list for base planning objects is retired with the objects it listed. Reference and simulation costing is not supported in S/4HANA, so look to CKECP and CKUC for the estimating side.",reviewed,6.5.7,332
+S_ALR_87013036,,CO,deleted,,none,"S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)","Multilevel explosion reporting on base planning objects ends here. With the whole reference and simulation costing scope removed, CKECP and CKUC are the recommended routes for cost estimates.",reviewed,6.5.7,332
+S_ALR_87100621,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_ALR_87100718,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_ALR_87100771,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_ALR_87100775,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_ALR_87100776,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_ALR_87100782,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_ALR_87100834,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_EB5_05000537,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000608,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000609,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000612,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000660,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000669,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000670,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000679,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000680,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000691,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000692,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EB5_05000762,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBJ_98000052,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBJ_98000078,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBJ_98000092,,CROSS,deleted,,none,"S4TWL - SD – FI/CA Integration with distributed systems (S4TWL item 3.1.5, SAP Note 2267400)",,pending,3.1.5,39
+S_EBS_44000154,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBS_44000345,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBS_44000346,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBS_44000415,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBS_44000421,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBS_44000427,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBS_44000505,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_EBS_44000536,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+S_P00_07000122,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+S_P00_07000322,,HR,deleted,,none,"S4TWL - CATSXT (S4TWL item 7.1.8, SAP Note 3150537)",,pending,7.1.8,472
+TBC001,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+TBD001,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+TCLSVERS,,IND-Automotive,replaced,,none,"S4TWL - Material Version (S4TWL item 13.2.5, SAP Note 2270398)",,pending,13.2.5,1053
+TKA3A,,CO,deleted,,none,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","This is a table name, not a transaction, and it was picked up from the item text by mistake. TKA3A is where default account assignments now live in S/4HANA, viewed through OKB9, so treat this record as informational rather than a removal.",reviewed,6.5.5,327
+TREX,,CROSS,deleted,,none,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
+UAMO,,PLM,replaced,,none,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
+UAMO_REPORTING,,PLM,replaced,,none,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
+UAST,,PLM,replaced,,none,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
+UA_CE_REPORT,,PLM,replaced,,none,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
+UA_DATABASIS,,PLM,replaced,,none,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
+UA_IMG,,PLM,replaced,,none,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
+UA_STRUC_MAINT1,,PLM,replaced,,none,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
+V-04,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+V-05,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+V-06,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+V-07,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+V-08,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+V-09,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+V-11,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VA06,,SD,deleted,,none,"S4TWL - Simplification in SD Analytics (S4TWL item 11.1.16, SAP Note 2267348)",,pending,11.1.16,1018
+VACB,,IND-Public Sector,deleted,,none,"S4TWL - Advanced Order Processing and Billing for Contractors to the (S4TWL item 13.14.2, SAP Note 2267350)",,pending,13.14.2,1276
+VAP1,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VAP2,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VAP3,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VBO1,,SD,replaced,,none,"S4TWL - SD Rebate Processing replaced by Settlement Management (S4TWL item 11.1.14, SAP Note 2267377)",,pending,11.1.14,1015
+VBSY,,IND-High Tech,deleted,,none,"S4TWL - Software License Management (S4TWL item 13.8.11, SAP Note 2270848)",,pending,13.8.11,1120
+VD01,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VD02,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VD03,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VD05,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VD06,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+VE85,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","VE85 belongs to the old SD Foreign Trade maintenance and reporting set, none of which ships with S/4HANA. Its territory is covered by the redesigned International Trade functions and SAP GTS.",reviewed,6.6.1,368
+VE86,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","One of the legacy foreign trade reporting codes retired with SD-FT. Commodity code classification, Intrastat and legal control now live in International Trade instead.",reviewed,6.6.1,368
+VE87,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Retired along with the rest of the SD-FT toolset. If VE87 was part of your routine, the equivalent capability sits in S/4HANA International Trade, with SAP GTS handling preference and import and export management.",reviewed,6.6.1,368
+VE88,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Gone with the SD Foreign Trade module it belonged to. The replacement functions are redesigned in International Trade rather than carried over code for code.,reviewed,6.6.1,368
+VE89,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","SD Foreign Trade takes VE89 with it when it leaves. Look to International Trade in S/4HANA for the redesigned Intrastat, legal control and classification functions.",reviewed,6.6.1,368
+VEBE,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","This maintenance code retires as part of the SD-FT scope. S/4HANA replaces the module wholesale with International Trade, supported by SAP GTS for import and export management.",reviewed,6.6.1,368
+VECZ,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Withdrawn together with SD Foreign Trade. The redesigned classification, Intrastat and legal control functions in International Trade cover the ground VECZ used to.",reviewed,6.6.1,368
+VEHU,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Not carried into S/4HANA. VEHU is one of the SD-FT maintenance and reporting transactions whose work now happens in the International Trade functions and SAP GTS.,reviewed,6.6.1,368
+VEI3,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",The SD-FT reporting set that included VEI3 does not survive the move to S/4HANA. Equivalent reporting is part of the redesigned International Trade scope.,reviewed,6.6.1,368
+VEIA,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Removed as part of the foreign trade clean-out. SD-FT is not in S/4HANA, and VEIA's ground is covered by International Trade and SAP GTS.",reviewed,6.6.1,368
+VEIB,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Like the rest of the old foreign trade codes, VEIB ends with SD-FT. Pick up the equivalent work in S/4HANA International Trade.",reviewed,6.6.1,368
+VEPL,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Dropped with the SD-FT module. VEPL's maintenance and reporting duties pass to the redesigned International Trade functions in S/4HANA.,reviewed,6.6.1,368
+VESK,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","The last stop for VESK is your old ERP system. SD Foreign Trade is not part of S/4HANA, and its maintenance and reporting codes are superseded by International Trade and SAP GTS.",reviewed,6.6.1,368
+VF42,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","The sales document update run disappears with SD revenue recognition. RAR takes over, and open contracts carrying deferred revenue must be migrated to it before conversion.",reviewed,6.2.2,252
+VF43,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","Revenue recognition posting documents from the old module can no longer be displayed here. SD Revenue Recognition is removed outright, with RAR as the successor required for IFRS 15.",reviewed,6.2.2,252
+VF44,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","Your revenue realisation worklist moves to a new home. VF44 ends with SD Revenue Recognition, and the equivalent processing runs inside SAP Revenue Accounting and Reporting.",reviewed,6.2.2,252
+VF45,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","Revenue reporting from the old SD module stops at conversion. RAR carries the successor reporting, and any open contracts with deferred revenue need migrating to it beforehand.",reviewed,6.2.2,252
+VF46,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","Cancelling revenue recognition postings is a task that ends with the module. VF46 is removed, and corrections are handled within RAR going forward.",reviewed,6.2.2,252
+VF47,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","The consistency check for SD revenue recognition data has no place in S/4HANA. With the module removed outright, RAR provides the equivalent controls.",reviewed,6.2.2,252
+VF48,,FIN-CLOSE,deleted,,none,"S4TWL - ERP SD Revenue Recognition (S4TWL item 6.2.2, SAP Note 2267342)","The compare report goes with the rest of SD Revenue Recognition. RAR is the successor, and it is required for IFRS 15 compliance, so plan the contract migration before conversion.",reviewed,6.2.2,252
+VI08X,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Import-side foreign trade processing through VI08X retires with SD-FT. Equivalent checks run in International Trade and SAP GTS in S/4HANA.,reviewed,6.6.1,368
+VI09X,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Your import processing here moves on. VI09X goes with the SD Foreign Trade module, and the corresponding checks are handled by International Trade and SAP GTS.",reviewed,6.6.1,368
+VI10X,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Removed with the import side of SD Foreign Trade. Where VI10X handled import processing, International Trade and SAP GTS take over in S/4HANA.",reviewed,6.6.1,368
+VI14X,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Import handling under the old foreign trade module ends, taking VI14X with it. The successor checks live in International Trade and SAP GTS.",reviewed,6.6.1,368
+VI64X,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","This import-side transaction does not make the journey to S/4HANA. SD-FT is retired, and its import checks re-run inside International Trade and SAP GTS.",reviewed,6.6.1,368
+VI77X,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","SD Foreign Trade's import processing, including VI77X, is switched off in S/4HANA. Run the equivalent checks through International Trade or SAP GTS.",reviewed,6.6.1,368
+VI79X,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Withdrawn as part of the SD-FT import scope. VI79X's processing is covered by International Trade and SAP GTS going forward.,reviewed,6.6.1,368
+VI80X,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Import-side processing in VI80X ends when SD Foreign Trade does. S/4HANA hands the equivalent checks to International Trade and SAP GTS.,reviewed,6.6.1,368
+VIEX,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","On the import side of foreign trade, VIEX is retired with the SD-FT module. International Trade and SAP GTS carry the equivalent processing in S/4HANA.",reviewed,6.6.1,368
+VIIM,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Retired together with SD-FT's import processing. What you did in VIIM is handled by the International Trade functions and SAP GTS.,reviewed,6.6.1,368
+VIWE,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","The import processing behind VIWE is not part of S/4HANA. With SD-FT removed, International Trade and SAP GTS run the equivalent checks.",reviewed,6.6.1,368
+VKM1,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Releasing blocked sales documents moves to UKM_MY_DCDS, the documented credit decisions transaction SAP names as the direct replacement. Each release is handled as a documented credit decision.",reviewed,6.3.1,268
+VKM2,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Working blocked and released SD documents shifts into FSCM, where UKM_MY_DCDS and case management handle documented credit decisions in place of VKM2.",reviewed,6.3.1,268
+VKM3,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","Your blocked-document processing screen changes address. VKM3's work moves to documented credit decision handling in FSCM, through UKM_MY_DCDS and case management.",reviewed,6.3.1,268
+VKM4,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)",Processing blocked and released sales documents through VKM4 ends with old credit management. The same task runs as documented credit decisions in FSCM via UKM_MY_DCDS.,reviewed,6.3.1,268
+VKM5,,FI-AP,replaced,,none,"S4TWL - Credit Management (S4TWL item 6.3.1, SAP Note 2270544)","For blocked and released SD documents, head to UKM_MY_DCDS in FSCM. VKM5 is replaced by documented credit decision handling under SAP Credit Management.",reviewed,6.3.1,268
+VL51A,,IND-Automotive,deleted,,none,"S4TWL - Planning Regular Route Shipments (S4TWL item 13.2.6, SAP Note 2270399)",,pending,13.2.6,1055
+VL52A,,IND-Automotive,deleted,,none,"S4TWL - Planning Regular Route Shipments (S4TWL item 13.2.6, SAP Note 2270399)",,pending,13.2.6,1055
+VL53A,,IND-Automotive,deleted,,none,"S4TWL - Planning Regular Route Shipments (S4TWL item 13.2.6, SAP Note 2270399)",,pending,13.2.6,1055
+VL54A,,IND-Automotive,deleted,,none,"S4TWL - Planning Regular Route Shipments (S4TWL item 13.2.6, SAP Note 2270399)",,pending,13.2.6,1055
+VPW1,,SD,replaced,,none,"S4TWL - Business Role Internal Sales Representative (S4TWL item 11.1.4, SAP Note 2271150)",,pending,11.1.4,996
+VPWL,,SD,replaced,,none,"S4TWL - Business Role Internal Sales Representative (S4TWL item 11.1.4, SAP Note 2271150)",,pending,11.1.4,996
+VTCU,,IND-Automotive,replaced,,none,"S4TWL - Material Version (S4TWL item 13.2.5, SAP Note 2270398)",,pending,13.2.5,1053
+VX99,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Export-side legal control and documentary processing ends with SD Foreign Trade. VX99's successors sit in International Trade legal control and, for letters of credit, Trade Finance.",reviewed,6.6.1,368
+VXCZ,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","On the export side, VXCZ retires with the SD-FT module. Legal control moves to International Trade, and documentary business is handled by Trade Finance.",reviewed,6.6.1,368
+VXHU,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Export documentary processing through VXHU is withdrawn in S/4HANA. The replacement capabilities are International Trade legal control and Trade Finance.,reviewed,6.6.1,368
+VXPL,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)",Retired with SD-FT's export scope. VXPL's legal control and documentary work passes to International Trade and Trade Finance in S/4HANA.,reviewed,6.6.1,368
+VXSK,,FI-GRC,replaced,,none,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","The export-side processing behind VXSK does not carry over. SD Foreign Trade is removed, with International Trade legal control and Trade Finance as the successors.",reviewed,6.6.1,368
+WAO_QA32WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+WAO_QM10WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+WAO_QM13WP,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+WAO_QPQA32,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+WAO_QPQM10,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+WAO_QPQM13,,QM,deleted,,none,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+WB24,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","For the trading contract document overview, WBRR takes over from WB24. The successor runs report RWB2BREL for follow-on document processing, per the item's mapping table.",reviewed,6.6.2,376
+WB24N,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","No need to retire this one. WB24N is the named successor for WB25_COMP mass processing, captured here from the successor column, and remains current.",reviewed,6.6.2,376
+WB25,,FI-GRC,deleted,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","The old trading contract overview UI goes, and the 2025 successor table names nothing in its place. WB25 simply ends in S/4HANA.",reviewed,6.6.2,376
+WB25_COMP,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Mass processing of trading contracts moves to WB24N, which handles release and status updates as the named successor to WB25_COMP.",reviewed,6.6.2,376
+WB2B,,FI-GRC,deleted,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Trading contract processing on the old data model is removed, and the 2025 table names no successor for WB2B. GTM itself continues on the rebuilt WBHF and WBIT structures.",reviewed,6.6.2,376
+WB2B_CREATE_TC_U,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","The full code here is WB2B_CREATE_TC_USER, truncated at a PDF line wrap. Creating web users for trading contracts is obsolete in S/4HANA, with no successor named.",reviewed,6.6.2,376
+WB2B_NETUS,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",Truncated from WB2B_NETUSER in the source PDF. The web user transaction is obsolete and has no successor in S/4HANA.,reviewed,6.6.2,376
+WB2DI1,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Differential invoicing in GTM is gone, and WB2DI1 with it. The capability transferred to Commodity Management in ERP EHP7, so that is where the process runs now.",reviewed,6.6.2,376
+WB2DI2,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Retired as part of GTM differential invoicing. If you still use WB2DI2, plan on Commodity Management's differential invoicing, which has covered this since ERP EHP7.",reviewed,6.6.2,376
+WB2DI3,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","GTM's differential invoicing transactions end in S/4HANA, WB2DI3 included. Commodity Management took the capability over back in ERP EHP7.",reviewed,6.6.2,376
+WB2DI4,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","The last of the GTM differential invoicing codes in this set. Like the others, WB2DI4 is removed, with Commodity Management carrying differential invoicing since ERP EHP7.",reviewed,6.6.2,376
+WB31,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Listed obsolete with no successor transaction. WB31 ran the trading contract financial documents report, which ends as GTM moves to the simplified data model.",reviewed,6.6.2,376
+WBL1,,SD,replaced,WBLRN,tcode,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WBRR,,FI-GRC,replaced,,none,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",This is the successor side of the mapping. WBRR takes over follow-on document processing from WB24 and remains a current transaction in S/4HANA.,reviewed,6.6.2,376
+WCMP_MASS,,SD,deleted,,none,"S4TWL - SD Complaint Handling (S4TWL item 11.1.10, SAP Note 2267398)",,pending,11.1.10,1010
+WCMP_PROCESSING,,SD,deleted,,none,"S4TWL - SD Complaint Handling (S4TWL item 11.1.10, SAP Note 2267398)",,pending,11.1.10,1010
+WCMP_RESULT,,SD,deleted,,none,"S4TWL - SD Complaint Handling (S4TWL item 11.1.10, SAP Note 2267398)",,pending,11.1.10,1010
+WCU1,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WCUM,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WLFB,,SD,replaced,WLI2,tcode,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLFC,,SD,replaced,WLI2,tcode,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLFD,,SD,replaced,WLI2,tcode,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLFE,,SD,replaced,,none,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLFG,,SD,replaced,,none,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLFH,,SD,replaced,,none,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLFO,,SD,replaced,,none,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLI2,,SD,replaced,,none,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLR1,,SD,replaced,WLFSLRL,tcode,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WPC1,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WPC2,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WPC3,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WPC4,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WPC5,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WPCC,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WPCI,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WPCJ,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WW10,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WW20,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WW30,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WWCD,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WWM1,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WWM2,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WWM3,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WWM4,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+WWM5,,IND-Retail,deleted,,none,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
+XD01,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XD02,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XD03,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XD05,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XD06,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XD07,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XK01,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XK02,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XK03,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XK05,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XK06,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XK07,,MDM,deleted,,none,"S4TWL - Business Partner Approach (S4TWL item 5.1.27, SAP Note 2265093)",,pending,5.1.27,136
+XLOC,,IND-Automotive,deleted,,none,"S4TWL - Cross-System Transit between Two Plants (S4TWL item 13.2.3, SAP Note 2270358)",,pending,13.2.3,1049
+XLOR,,IND-Automotive,deleted,,none,"S4TWL - Cross-System Transit between Two Plants (S4TWL item 13.2.3, SAP Note 2270358)",,pending,13.2.3,1049
+XLOS,,IND-Automotive,deleted,,none,"S4TWL - Cross-System Transit between Two Plants (S4TWL item 13.2.3, SAP Note 2270358)",,pending,13.2.3,1049
+FBL1N,,FI-AP,changed,Manage Vendor Line Items (Fiori app),fiori_app,,"Your day-to-day vendor line item list keeps working after conversion, but SAP's direction is the Manage Vendor Line Items app. The app swaps the classic selection screen for filter bars and builds in actions like blocking and paying, and your saved FBL1N layouts will not come across, so plan to rebuild them.",reviewed,,
+FBL3N,,FI-GL,changed,Manage G/L Account Line Items (Fiori app),fiori_app,,"You can keep running FBL3N, though SAP treats the Manage G/L Account Line Items app as the way forward. It reads the Universal Journal directly, and you filter your way to line items with drill-through to journal entries rather than working through the classic list variants.",reviewed,,
+FBL5N,,FI-AR,changed,Manage Customer Line Items (Fiori app),fiori_app,,"Customer line items still open the way you are used to, but the Manage Customer Line Items app is where SAP is heading, with dispute, correspondence and payment actions built into the list. Your saved layouts and any user exits around the classic list need checking again after conversion.",reviewed,,
+FB60,,FI-AP,changed,,none,,"Nothing changes in how FB60 posts, and no simplification item removes it. If you move to the Create Supplier Invoice apps you gain built-in duplicate checks and attachment handling, but you can stay in the GUI transaction for now.",reviewed,,
+FB70,,FI-AR,changed,,none,,"FB70 carries on in S/4HANA exactly as before. SAP's preferred front end for customer invoices is the Create Outgoing Invoices app, which sits on the same posting core, so switching is about screens rather than accounting.",reviewed,,
+F110,,FI-AP,changed,Manage Automatic Payments (Fiori app),fiori_app,,"Your payment run is safe. F110 keeps the same engine in S/4HANA, and the Manage Automatic Payments app simply gives you a guided run monitor and easier exception handling on top of it.",reviewed,,
+FS10N,,FI-GL,changed,,none,,"Balances in FS10N now come through compatibility views rather than the old totals tables, so figures and performance can behave slightly differently. SAP steers you towards the Display G/L Account Balances and Trial Balance apps, which read the Universal Journal natively.",reviewed,,
+FK10N,,FI-AP,changed,,none,,"You can still check supplier balances in FK10N, with the numbers now coming from the Universal Journal instead of index tables. The Display Supplier Balances app is the designated successor and lets you drill straight down to line items and journal entries.",reviewed,,
+FD10N,,FI-AR,changed,,none,,"Customer balances keep opening in FD10N under compatibility scope, and no removal item applies to the transaction. SAP's go-forward screen is the Display Customer Balances app, which reads the Universal Journal and drills through to receivables line items.",reviewed,,
+KE30,,CO-PA,changed,,none,,"KE30 reports still run against costing-based CO-PA, but SAP's strategic answer for profitability is Margin Analysis in the Universal Journal. Your Report Painter reports on the CE1 to CE4 tables do not translate one to one, so expect the reporting layer to be rebuilt rather than migrated.",reviewed,,
+KE24,,CO-PA,changed,,none,,"Line items for costing-based CO-PA stay visible in KE24. Account-based figures live in the Universal Journal and surface through journal entry and margin apps instead, so if you run both you will be reporting in two places.",reviewed,,
+MIRO,,MM-IV,changed,,none,,"Invoice verification stays in MIRO, which no simplification item touches. The Create Supplier Invoice app is SAP's strategic front end over the same core, so treat the app as an option rather than a deadline.",reviewed,,
+ME21N,,MM-PUR,changed,,none,,"You keep creating purchase orders in ME21N as before. The visible change is at the edges, where output for new documents shifts from NAST messages towards BRF+ based output, and the Manage Purchase Orders apps are the target experience.",reviewed,,
+MB51,,MM-IM,changed,,none,,"MB51 still lists your material documents, now reading them from the MATDOC table. Re-check any custom layouts or queries built on the old MKPF and MSEG model, and note the Material Documents Overview app is the strategic successor.",reviewed,,
