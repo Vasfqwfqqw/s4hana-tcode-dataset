@@ -15,11 +15,12 @@ This is (to our knowledge) the first open, parsed dataset of the SAP Simplificat
 | `SCHEMA.md` | Field-by-field schema |
 | `CHANGELOG.md` | Version history |
 
-## Dataset stats (v1.0.0)
+## Dataset stats (v1.1.0)
 
 - **828 transaction codes** across 29 module areas
 - Statuses: 440 replaced · 371 deleted · 14 changed · 3 available
-- **212 records human-reviewed** with end-user delta notes (FI/CO first — more modules each release; `review_status` field tells you which)
+- **197 records human-reviewed** with end-user delta notes (FI/CO first — more modules each release; `review_status` field tells you which)
+- Successor **Fiori app IDs** (`fiori_app_id`) verified against the SAP Fiori Apps Reference Library on high-traffic codes (FBL1N, FBL3N, FBL5N, F110, MB51, ME21N — coverage grows each release)
 - Source edition: SAP Simplification List for SAP S/4HANA 2025 (initial shipment / FPS01)
 
 ## What a delta note looks like
