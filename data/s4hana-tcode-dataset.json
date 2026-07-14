@@ -1,7 +1,7 @@
 {
  "dataset": "SAP S/4HANA t-code fate dataset (derived)",
  "source_edition": "Simplification List for SAP S/4HANA 2025 FPS01 and SAP S/4HANA Cloud Private Edition 2025 FPS01, Feature Pack Stack 1-3 (doc v1.36, 2026-02-20)",
- "version": "1.1.0",
+ "version": "1.1.1",
  "generated": "2026-07-14",
  "copyright_note": "Derived structured facts only. No SAP verbatim prose. Refer to SAP's Simplification List and cited SAP Notes for source text.",
  "record_count": 828,
@@ -2563,7 +2563,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Template allocation for cost objects ends here. General cost objects do not exist in S/4HANA, so this work moves onto internal orders or product cost collectors instead.",
+   "delta_note": "Template allocation for cost objects ends here. General cost objects do not exist in S/4HANA, so this work shifts across to product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -2577,7 +2577,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "The collective template allocation run for cost objects has no home in S/4HANA, because general cost objects themselves are gone. Rebuild the process on internal orders or product cost collectors.",
+   "delta_note": "The collective template allocation run for cost objects has no home in S/4HANA, because general cost objects themselves are gone. Rebuild the process on product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -4089,7 +4089,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - CASH MANAGEMENT - GENERAL (S4TWL item 6.11.17, SAP Note 2270400)",
-   "delta_note": "FF-6 retires with the rest of the old FF* transactions. S/4HANA Finance for cash management is the only compatible successor, so expect the function to be reconfigured rather than migrated.",
+   "delta_note": "FF-6 retires with the rest of the old FF* transactions. The successor is the new cash management in S/4HANA Finance, and it is a reconfiguration rather than a migration - plan for setup work, not a data move.",
    "review_status": "reviewed",
    "source_item": "6.11.17",
    "source_page": 447
@@ -5671,7 +5671,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "If you changed cost object plans by cost element and activity in KK16, that planning object no longer exists. S/4HANA drops general cost objects altogether, and internal orders or product cost collectors take their place.",
+   "delta_note": "If you changed cost object plans by cost element and activity in KK16, that planning object no longer exists. S/4HANA drops general cost objects altogether, and product cost collectors or internal orders take their place.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5685,7 +5685,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "There is nothing left for KK17 to display. Cost object planning disappears with general cost objects, which S/4HANA does not support, so plan on internal orders or product cost collectors instead.",
+   "delta_note": "There is nothing left for KK17 to display. Cost object planning disappears with general cost objects, which S/4HANA does not support, so plan on product cost collectors or internal orders instead.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5699,7 +5699,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Planning statistical key figures on cost objects stops with KK46, because the general cost object is removed from S/4HANA. Internal orders or product cost collectors are where SAP expects that planning to live now.",
+   "delta_note": "Planning statistical key figures on cost objects stops with KK46, because the general cost object is removed from S/4HANA. Product cost collectors or internal orders are where SAP expects that planning to live now.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5713,7 +5713,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "The display side of statistical key figure planning for cost objects goes too. With general cost objects removed, KK47 has nothing to show, and the equivalent view sits on internal orders or product cost collectors.",
+   "delta_note": "The display side of statistical key figure planning for cost objects goes too. With general cost objects removed, KK47 has nothing to show, and the equivalent view sits on product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5727,7 +5727,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Settling cost objects is no longer a task in S/4HANA. KK88 disappears with the general cost object itself, so settlements run on internal orders or product cost collectors from now on.",
+   "delta_note": "Settling cost objects is no longer a task in S/4HANA. KK88 disappears with the general cost object itself, so settlements run on product cost collectors or internal orders from now on.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5741,7 +5741,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Collective settlement of cost objects ends along with the objects being settled. If your period close ran KK89, that step drops out and the equivalent work happens on internal orders or product cost collectors.",
+   "delta_note": "Collective settlement of cost objects ends along with the objects being settled. If your period close ran KK89, that step drops out and the equivalent work happens on product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5755,7 +5755,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)",
-   "delta_note": "Itemisation display for base planning objects goes when reference and simulation costing does. S/4HANA drops the whole scope, so use CKECP for ad hoc cost estimates and CKUC for multilevel material estimates, and get the old code taken out of your roles.",
+   "delta_note": "Itemisation display for base planning objects goes when reference and simulation costing does. S/4HANA drops the whole scope: ad hoc estimates move to CKECP, multilevel material estimates to CKUC, and the old code should come out of your roles.",
    "review_status": "reviewed",
    "source_item": "6.5.7",
    "source_page": 332
@@ -5797,7 +5797,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Cost object analysis via KKBC_KTR has no successor screen, because the objects it analysed are gone. Reporting shifts to internal orders or product cost collectors, with runtime order hierarchies covering aggregation.",
+   "delta_note": "Cost object analysis via KKBC_KTR has no successor screen, because the objects it analysed are gone. Reporting shifts to product cost collectors or internal orders, with runtime order hierarchies covering aggregation.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5811,7 +5811,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "You cannot create general cost objects in S/4HANA, so KKC1 goes with them. Set up internal orders or product cost collectors for anything you would have modelled this way.",
+   "delta_note": "You cannot create general cost objects in S/4HANA, so KKC1 goes with them. Set up product cost collectors or internal orders for anything you would have modelled this way.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5825,7 +5825,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Changing a general cost object is off the table, since the object type itself is removed. KKC2 ends, and ongoing maintenance happens on internal orders or product cost collectors instead.",
+   "delta_note": "Changing a general cost object is off the table, since the object type itself is removed. KKC2 ends, and ongoing maintenance happens on product cost collectors or internal orders instead.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5839,7 +5839,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "With general cost objects removed from S/4HANA, KKC3 has nothing to display. Whatever you tracked on them needs re-modelling as internal orders or product cost collectors.",
+   "delta_note": "With general cost objects removed from S/4HANA, KKC3 has nothing to display. Whatever you tracked on them needs re-modelling as product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5853,7 +5853,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Creating cost object plans stops here. General cost objects are not part of S/4HANA, so KKC4 is retired and planning moves to internal orders or product cost collectors.",
+   "delta_note": "Creating cost object plans stops here. General cost objects are not part of S/4HANA, so KKC4 is retired and planning moves to product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5867,7 +5867,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Cost object plan changes and line item views end with KKC5, because S/4HANA drops general cost objects entirely. Internal orders or product cost collectors carry that planning going forward.",
+   "delta_note": "Cost object plan changes and line item views end with KKC5, because S/4HANA drops general cost objects entirely. Product cost collectors or internal orders carry that planning going forward.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5881,7 +5881,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Displaying cost object plans is no longer possible once general cost objects are removed. KKC6 goes, and the equivalent plan views live on internal orders or product cost collectors.",
+   "delta_note": "Displaying cost object plans is no longer possible once general cost objects are removed. KKC6 goes, and the equivalent plan views live on product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5895,7 +5895,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Cost-object product groups cannot be created in S/4HANA. KKC7 is removed with the whole general cost object scope, and internal orders or product cost collectors are the replacement pattern.",
+   "delta_note": "Cost-object product groups cannot be created in S/4HANA. KKC7 is removed with the whole general cost object scope, and product cost collectors or internal orders are the replacement pattern.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5909,7 +5909,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Editing cost-object product groups ends when the underlying objects do. KKC8 disappears, so any grouping you relied on needs rebuilding around internal orders or product cost collectors.",
+   "delta_note": "Editing cost-object product groups ends when the underlying objects do. KKC8 disappears, so any grouping you relied on needs rebuilding around product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5923,7 +5923,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "The display transaction for cost-object product groups falls away with the rest of the general cost object scope. KKC9 is gone, and reporting moves onto internal orders or product cost collectors.",
+   "delta_note": "The display transaction for cost-object product groups falls away with the rest of the general cost object scope. KKC9 is gone, and reporting moves onto product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -5937,7 +5937,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - Reference and Simulation Costing (S4TWL item 6.5.7, SAP Note 2349294)",
-   "delta_note": "You can no longer create base planning objects, as reference and simulation costing is not supported in S/4HANA. CKECP covers ad hoc cost estimates and CKUC covers multilevel material cost estimates instead.",
+   "delta_note": "You can no longer create base planning objects, as reference and simulation costing is not supported in S/4HANA. Ad hoc estimates move to CKECP, and multilevel material cost estimates to CKUC.",
    "review_status": "reviewed",
    "source_item": "6.5.7",
    "source_page": 332
@@ -6021,7 +6021,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Cost object groups cannot be created any more, since the objects they grouped are removed from S/4HANA. KKH1 ends, and internal orders or product cost collectors take over.",
+   "delta_note": "Cost object groups cannot be created any more, since the objects they grouped are removed from S/4HANA. KKH1 ends, and product cost collectors or internal orders take over.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -6035,7 +6035,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Maintaining cost object groups stops with KKH2. General cost objects are out of scope in S/4HANA, so re-model the structure on internal orders or product cost collectors.",
+   "delta_note": "Maintaining cost object groups stops with KKH2. General cost objects are out of scope in S/4HANA, so re-model the structure on product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -6049,7 +6049,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Viewing cost object groups is finished once the group concept goes. KKH3 is removed with the general cost object scope, and equivalent structures sit on internal orders or product cost collectors.",
+   "delta_note": "Viewing cost object groups is finished once the group concept goes. KKH3 is removed with the general cost object scope, and equivalent structures sit on product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -6063,7 +6063,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Revaluing cost objects at actual prices ends in S/4HANA. KKN1 disappears with general cost objects, so run that revaluation logic on internal orders or product cost collectors instead.",
+   "delta_note": "Revaluing cost objects at actual prices ends in S/4HANA. KKN1 disappears with general cost objects, so run that revaluation logic on product cost collectors or internal orders instead.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -6077,7 +6077,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "The collective revaluation run for cost objects goes the same way as the objects themselves. KKN2 is removed, and internal orders or product cost collectors carry actual-price revaluation now.",
+   "delta_note": "The collective revaluation run for cost objects goes the same way as the objects themselves. KKN2 is removed, and product cost collectors or internal orders carry actual-price revaluation now.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -6119,7 +6119,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Collective entry for general cost objects ends when the object type does. KKPH is removed, and S/4HANA expects internal orders or product cost collectors in its place.",
+   "delta_note": "Collective entry for general cost objects ends when the object type does. KKPH is removed, and S/4HANA expects product cost collectors or internal orders in its place.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -6147,7 +6147,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "The collective overhead allocation run for cost objects drops out of S/4HANA along with the objects themselves. Where KKPJ ran in your close, overhead now applies to internal orders or product cost collectors.",
+   "delta_note": "The collective overhead allocation run for cost objects drops out of S/4HANA along with the objects themselves. Where KKPJ ran in your close, overhead now applies to product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -6161,7 +6161,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)",
-   "delta_note": "Overhead allocation for cost objects ends here, because general cost objects are not supported in S/4HANA. Move that allocation onto internal orders or product cost collectors.",
+   "delta_note": "Overhead allocation for cost objects ends here, because general cost objects are not supported in S/4HANA. Move that allocation onto product cost collectors or internal orders.",
    "review_status": "reviewed",
    "source_item": "6.5.3",
    "source_page": 324
@@ -6189,7 +6189,7 @@
    "replacement_type": "none",
    "fiori_app_id": "",
    "sap_reference": "S4TWL - Summarization Hierarchies in Controlling (S4TWL item 6.5.12, SAP Note 2349282)",
-   "delta_note": "Your period-close data collection run disappears, and not because it moved. KKBC_HOE_H now aggregates the hierarchy on the fly, so KKRC has no job left, though you need KKS1 or KKS1H to calculate target costs and variances beforehand.",
+   "delta_note": "Your period-close data collection run disappears, and not because it moved. KKBC_HOE_H now aggregates the hierarchy on the fly, so KKRC has no job left - though target costs and variances still need working out first, and that job sits with KKS1 (or KKS1H for hierarchies).",
    "review_status": "reviewed",
    "source_item": "6.5.12",
    "source_page": 356

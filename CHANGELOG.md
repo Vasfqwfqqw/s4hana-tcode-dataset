@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1 — 2026-07-14
+
+- Copyright hygiene pass: ~30 delta notes reworded to remove short phrase overlaps with SAP Simplification List instructional text (verified programmatically — remaining shared strings are official SAP product/feature/app names only, retained as factual identifiers). No status, replacement, or fiori_app_id changes.
+
 ## 1.1.0 — 2026-07-14
 
 - New field `fiori_app_id`: successor Fiori app IDs verified against the SAP Fiori Apps Reference Library export (2026-07-13). Populated on FBL1N (F0712), FBL3N (F2217), FBL5N (F0711), F110 (F0770), MB51 (F1077), ME21N (F0842A); coverage grows each release.
