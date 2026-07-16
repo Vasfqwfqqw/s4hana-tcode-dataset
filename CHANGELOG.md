@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.0 — 2026-07-16
+
+- 10 new manual records for changed-but-available FI/CO codes (status `changed`, human-reviewed with end-user delta notes): FAGLL03, FAGLB03, FS00, FB50, FB03, F-53, F-28, F-03, KSB1, KOB1. These codes are not in the Simplification List (they survive conversion) but are high-traffic end-user lookups.
+- All 10 successor Fiori app IDs verified against the SAP Fiori Apps Reference Library export (2026-07-13): F2217, F0707A, F0731A, F0718, F0717, F1612, F1345, F1579, F4023 (×2).
+- Record count 828 → 838 (24 changed, 3 available). Human-reviewed count 197 → 207.
+
 ## 1.1.1 — 2026-07-14
 
 - Copyright hygiene pass: ~30 delta notes reworded to remove short phrase overlaps with SAP Simplification List instructional text (verified programmatically — remaining shared strings are official SAP product/feature/app names only, retained as factual identifiers). No status, replacement, or fiori_app_id changes.
