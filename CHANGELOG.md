@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.2 — 2026-07-20
+
+- Follow-up to 1.2.1: 3 more records carrying the same successor-mislabelled-as-deleted bug, missed by the original 35-code Fiori Apps Library cross-reference because they have no Fiori Apps Library entry at all. `status` `replaced` → `available`: KB21N, KB23N, KB24N. Delta notes were already correct and human-reviewed (`review_status=reviewed` unchanged) — status-field-only fix, same pattern as 1.2.1's KB11N/KB13N/KB14N group.
+- Record count unchanged (838). No new records added or removed.
+- See `dataset/launchpad-review-worklist-v1.1-RESOLVED.md` §D for the citation (S4TWL - ACTIVITY-BASED COSTING, item 6.5.2, SAP Note 2270408).
+
 ## 1.2.1 — 2026-07-20
 
 - Data-quality patch: 30 records were misclassified `deleted`/`replaced` when SAP's Simplification List names them as the *successor* transaction, not the one being withdrawn — a parser bug (free-text extraction couldn't tell which column of the obsolete/successor table a code came from). All 30 corrected to `status=available` (or `changed` for KE27), `review_status=reviewed`, `replacement` cleared: CC04, CL20N, CL22N, CL24N, CT04, CT12, CU51, PMEVC, IQS8, IQS9, QA32, QE09, QM10, QM13, DIS01N, PEG01N, WLI2, KB11N, KB13N, KB14N, KSC5, KSII, KSU5, KSV5, WB24N, WBRR, POFO31, POFO32, POFO33, KE27.
