@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.1 — 2026-07-20
+
+- Data-quality patch: 30 records were misclassified `deleted`/`replaced` when SAP's Simplification List names them as the *successor* transaction, not the one being withdrawn — a parser bug (free-text extraction couldn't tell which column of the obsolete/successor table a code came from). All 30 corrected to `status=available` (or `changed` for KE27), `review_status=reviewed`, `replacement` cleared: CC04, CL20N, CL22N, CL24N, CT04, CT12, CU51, PMEVC, IQS8, IQS9, QA32, QE09, QM10, QM13, DIS01N, PEG01N, WLI2, KB11N, KB13N, KB14N, KSC5, KSII, KSU5, KSV5, WB24N, WBRR, POFO31, POFO32, POFO33, KE27.
+- KE27 is a distinct bug class (header/value mismatch, not a column mix-up): the Simplification List text says the transaction remains available but is scoped to costing-based CO-PA; the previous delta note incorrectly treated it as withdrawn. Delta note rewritten, status `deleted` → `changed`.
+- For 12 of the 30 (KB11N, KB13N, KB14N, KSC5, KSII, KSU5, KSV5, WB24N, WBRR, POFO31, POFO32, POFO33), the delta note was already correct and human-reviewed; only the `status` field was wrong, meaning this bug had already shipped in `reviewed` records.
+- `WB25` is intentionally **not** included in this patch. The Simplification List's obsolete/successor table names `WB25_COMPAS`, not plain `WB25`, as the withdrawn code — but WB25 is independently confirmed as a real, distinct SAP transaction, and the live delta note asserts it's a genuine standalone withdrawal. Open question, unresolved; kept at its current (`pending`) state pending a human/practitioner call.
+- Record count unchanged (838). No new records added or removed.
+- See `dataset/launchpad-review-worklist-v1.1-RESOLVED.md` (source project) for the full per-code SL citations and resolution method.
+
 ## 1.2.0 — 2026-07-16
 
 - 10 new manual records for changed-but-available FI/CO codes (status `changed`, human-reviewed with end-user delta notes): FAGLL03, FAGLB03, FS00, FB50, FB03, F-53, F-28, F-03, KSB1, KOB1. These codes are not in the Simplification List (they survive conversion) but are high-traffic end-user lookups.

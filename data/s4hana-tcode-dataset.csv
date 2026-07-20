@@ -116,7 +116,7 @@ CBP7,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6
 CBPRO,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
 CBPV,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
 CBP_SOP_PLAN_SAVE,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
-CC04,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CC04,,PLM,available,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)","No need to retire this one. CC04 is one of the alternative transactions SAP names in the Classification renovation item, not a code being withdrawn — keep using it as you do today.",reviewed,10.4.9,927
 CC31,,PLM,deleted,,none,,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
 CC32,,PLM,deleted,,none,,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
 CC33,,PLM,deleted,,none,,"S4TWL - Engineering Change Management ECR/ECO (S4TWL item 10.4.29, SAP Note 2267918)",,pending,10.4.29,951
@@ -138,11 +138,11 @@ CFI02,,PLM,deleted,,none,,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845
 CFI03,,PLM,deleted,,none,,"S4TWL - cFolders (S4TWL item 10.4.3, SAP Note 2267845)",,pending,10.4.3,921
 CIC0,,CS,deleted,,none,,"S4TWL - Customer Interaction Center (CIC) (S4TWL item 12.2.1, SAP Note 2267412)",,pending,12.2.1,1026
 CL20,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
-CL20N,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL20N,,PLM,available,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)","Keep using CL20N. SAP's Classification item lists it as the alternative to the old CL20, not as a code being withdrawn.",reviewed,10.4.9,927
 CL22,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
-CL22N,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL22N,,PLM,available,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)","Keep using CL22N. It's named as the alternative to the retired CL22, not itself affected.",reviewed,10.4.9,927
 CL24,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
-CL24N,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CL24N,,PLM,available,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)","Keep using CL24N. It's the listed alternative for the retired CL24, not a code being withdrawn.",reviewed,10.4.9,927
 CL6E,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 CL6F,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 CL6G,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
@@ -190,14 +190,14 @@ CRM_PRODUCT_STA,,MDM,replaced,,none,,"S4TWL - SRM Product Master (S4TWL item 5.1
 CT01,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 CT02,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 CT03,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
-CT04,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT04,,PLM,available,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)","CT04 stays. It's the alternative SAP names for several retired characteristic transactions (CT01, CT02, CT03, CT05, CT06), not a code being removed itself.",reviewed,10.4.9,927
 CT05,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 CT06,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 CT11,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
-CT12,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
+CT12,,PLM,available,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)","CT12 stays. It's the named alternative for the retired CT11 characteristics where-used list, not itself withdrawn.",reviewed,10.4.9,927
 CT21,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 CT22,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
-CU51,,PLM,deleted,,none,,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+CU51,,PLM,available,,none,,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)","No change for you here. CU51 absorbs the retired CU51E, CU52 and CU52E order-BOM variants under one transaction; CU51 itself continues unchanged.",reviewed,10.4.8,926
 CU51E,,PLM,deleted,,none,,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
 CU52,,PLM,deleted,,none,,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
 CU52E,,PLM,deleted,,none,,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
@@ -208,7 +208,7 @@ CUSDE,,FI-GRC,replaced,,none,,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note
 CUSDEC,,FI-GRC,replaced,,none,,"S4TWL - Foreign Trade (S4TWL item 6.6.1, SAP Note 2267310)","Customs declarations via EDI end with SD Foreign Trade, which is not part of S/4HANA. Customs handling is re-implemented in SAP S/4HANA for international trade, with SAP GTS covering import and export management.",reviewed,6.6.1,368
 DIN,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 DIS01,,IND-Aerospace and Defense,replaced,,none,,"S4TWL - Cost Distribution Processing (S4TWL item 13.1.2, SAP Note 2270834)",,pending,13.1.2,1029
-DIS01N,,IND-Aerospace and Defense,replaced,,none,,"S4TWL - Cost Distribution Processing (S4TWL item 13.1.2, SAP Note 2270834)",,pending,13.1.2,1029
+DIS01N,,IND-Aerospace and Defense,available,,none,,"S4TWL - Cost Distribution Processing (S4TWL item 13.1.2, SAP Note 2270834)","No need to retire this one. DIS01N is the successor SAP names for the retired DIS01 (Cost Distribution Processing), and it remains current.",reviewed,13.1.2,1029
 DRM,,IND-High Tech,replaced,,none,,"S4TWL - Distributor/Reseller Processes (S4TWL item 13.8.3, SAP Note 2270858)",,pending,13.8.3,1113
 DRMBUMS,,IND-High Tech,replaced,,none,,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
 DRMCDMS,,IND-High Tech,replaced,,none,,"S4TWL - Manufacturer/Supplier Processes (S4TWL item 13.8.4, SAP Note 2270856)",,pending,13.8.4,1115
@@ -346,9 +346,9 @@ GDP_MM_EKKO_WRITE,,IND-Aerospace and Defense,deleted,,none,,"S4TWL - Obsolete tr
 GENC,,PLM,deleted,,none,,"S4TWL - Classification (S4TWL item 10.4.9, SAP Note 2267878)",,pending,10.4.9,927
 IAC,,IND-Retail,deleted,,none,,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
 IMG,,MDM,deleted,,none,,"S4TWL - Business Partner Hierarchy Not Available (S4TWL item 5.1.19, SAP Note 2409939)",,pending,5.1.19,121
-IQS8,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+IQS8,,QM,available,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)","IQS8 itself is unaffected. What actually disappears is IQS8WP, the old way of calling it from the SAP ITS/mySAP Workplace MiniApp environment, which SAP retires along with that whole technology.",reviewed,9.6.4,817
 IQS8WP,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
-IQS9,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+IQS9,,QM,available,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)","IQS9 itself is unaffected. It's the ITS/Workplace wrapper IQS9WP that disappears, not the underlying transaction.",reviewed,9.6.4,817
 IQS9WP,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
 ISA,,CROSS,deleted,,none,,"S4TWL - Webshops by Internet Sales or Web Channel Experience (S4TWL item 3.1.4, SAP Note 2271161)",,pending,3.1.4,37
 ISAUTO_SICASN1,,IND-Automotive,replaced,,none,,"S4TWL - Supplier Workplace (S4TWL item 13.2.9, SAP Note 2270354)",,pending,13.2.9,1060
@@ -390,11 +390,11 @@ KA01,,CO,deleted,,none,,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 22704
 KA02,,CO,deleted,,none,,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","Editing cost elements moves into G/L account maintenance, where the account master now holds the cost element category. KA02 is removed, so any changes you used to make there happen on the account.",reviewed,6.5.5,327
 KA03,,CO,deleted,,none,,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","To look up a cost element, open the G/L account instead. Separate cost element master data ends in S/4HANA, taking KA03 with it, and the account master shows the cost element category.",reviewed,6.5.5,327
 KA06,,CO,deleted,,none,,"S4TWL - COST ELEMENTS (S4TWL item 6.5.5, SAP Note 2270419)","Secondary cost elements are created as G/L accounts now, using the new account types for secondary costs. KA06 is retired, and the whole maintenance flow sits in G/L account maintenance.",reviewed,6.5.5,327
-KB11N,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Keep using KB11N as you do today. It appears in the simplification item only as the covering transaction for the retired parallel ABC variant KB11NP, not as a removal.",pending,6.5.2,320
+KB11N,,CO,available,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Keep using KB11N as you do today. It appears in the simplification item only as the covering transaction for the retired parallel ABC variant KB11NP, not as a removal.",reviewed,6.5.2,320
 KB11NP,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","The parallel ABC variant KB11NP goes away. Post through KB11N instead, where the business process is a standard account assignment, since delta-version ABC does not exist in S/4HANA.",reviewed,6.5.2,320
-KB13N,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","No action needed on your side for KB13N. It appears in the Simplification List only as the covering transaction for the retired KB13NP parallel ABC variant, and continues unchanged itself.",pending,6.5.2,320
+KB13N,,CO,available,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","No action needed on your side for KB13N. It appears in the Simplification List only as the covering transaction for the retired KB13NP parallel ABC variant, and continues unchanged itself.",reviewed,6.5.2,320
 KB13NP,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","KB13NP disappears together with parallel Activity-Based Costing on delta versions. Its work folds into KB13N, where the business process is handled as a standard account assignment.",reviewed,6.5.2,320
-KB14N,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","You will find KB14N in the Simplification List, but only because it absorbs its retired parallel ABC variant KB14NP. The transaction itself stays current in S/4HANA.",pending,6.5.2,320
+KB14N,,CO,available,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","You will find KB14N in the Simplification List, but only because it absorbs its retired parallel ABC variant KB14NP. The transaction itself stays current in S/4HANA.",reviewed,6.5.2,320
 KB14NP,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","This parallel ABC posting variant is retired. Use KB14N, which treats the business process as a normal account assignment, because delta versions and parallel ABC are gone from S/4HANA.",reviewed,6.5.2,320
 KB21N,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","KB21N carries on unchanged. Its Simplification List entry exists only to cover the removal of the parallel ABC variant KB21NP, so treat the listing as informational.",reviewed,6.5.2,320
 KB21NP,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Posting through the KB21NP parallel ABC variant ends in S/4HANA. Switch to KB21N, where the business process is simply a standard account assignment on the posting.",reviewed,6.5.2,320
@@ -402,7 +402,7 @@ KB23N,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP
 KB23NP,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","With delta versions gone entirely, the KB23NP variant has no purpose left. Its postings move to KB23N as standard account assignments on the business process.",reviewed,6.5.2,320
 KB24N,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","KB24N remains a current transaction. It is listed in the simplification item purely as cover for KB24NP, the parallel ABC variant that is being retired.",reviewed,6.5.2,320
 KB24NP,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","One less code to remember here. KB24NP is retired with parallel Activity-Based Costing, and KB24N handles the same posting with the business process as a standard account assignment.",reviewed,6.5.2,320
-KE27,,CO,deleted,,none,,"S4TWL - Profitability Analysis (S4TWL item 6.5.11, SAP Note 2349278)","Periodic valuation as KE27 ran it belongs to costing-based CO-PA and has no counterpart in Margin Analysis. SAP's direction is to cover the requirement in Margin Analysis, paired with event-based revenue recognition, and keep costing-based CO-PA switched off where you can.",pending,6.5.11,351
+KE27,,CO,changed,,none,,"S4TWL - Profitability Analysis (S4TWL item 6.5.11, SAP Note 2349278)","KE27 doesn't disappear. SAP's own wording is that all transactions remain available, but KE27 only works within costing-based CO-PA, not Margin Analysis (account-based CO-PA). If your business has moved to Margin Analysis, plan to stop relying on KE27 — but the transaction itself keeps running.",reviewed,6.5.11,351
 KK16,,CO,deleted,,none,,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","If you changed cost object plans by cost element and activity in KK16, that planning object no longer exists. S/4HANA drops general cost objects altogether, and product cost collectors or internal orders take their place.",reviewed,6.5.3,324
 KK17,,CO,deleted,,none,,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","There is nothing left for KK17 to display. Cost object planning disappears with general cost objects, which S/4HANA does not support, so plan on product cost collectors or internal orders instead.",reviewed,6.5.3,324
 KK46,,CO,deleted,,none,,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Planning statistical key figures on cost objects stops with KK46, because the general cost object is removed from S/4HANA. Product cost collectors or internal orders are where SAP expects that planning to live now.",reviewed,6.5.3,324
@@ -442,12 +442,12 @@ KKPZ,,CO,deleted,,none,,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL ite
 KKR0,,CO,available,,none,,"S4TWL - GENERAL COST OBJECTS AND COST OBJECT (S4TWL item 6.5.3, SAP Note 2270411)","Nothing changes for you here - KKR0 stays available. With general cost objects and cost object hierarchies gone, the Simplification List points to summarization hierarchies, which you maintain in KKR0, as the way forward.",reviewed,6.5.3,324
 KKRC,,CO,deleted,,none,,"S4TWL - Summarization Hierarchies in Controlling (S4TWL item 6.5.12, SAP Note 2349282)","Your period-close data collection run disappears, and not because it moved. KKBC_HOE_H now aggregates the hierarchy on the fly, so KKRC has no job left - though target costs and variances still need working out first, and that job sits with KKS1 (or KKS1H for hierarchies).",reviewed,6.5.12,356
 KSC1-3,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","These codes are current in S/4HANA. They appear in the dataset because the Simplification List names KSC1 to KSC3 as successors to the retired CP* activity-based costing transactions, so keep using them as normal.",reviewed,6.5.2,320
-KSC5,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Carry on using KSC5. It was captured from the successor column of the simplification item, where it replaces the retired ABC transaction CPC5, and it remains fully current.",pending,6.5.2,320
-KSII,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Activity price calculation via KSII is the go-forward transaction, not a removal. It appears here as the named successor to the retired ABC code CPII.",pending,6.5.2,320
+KSC5,,CO,available,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Carry on using KSC5. It was captured from the successor column of the simplification item, where it replaces the retired ABC transaction CPC5, and it remains fully current.",reviewed,6.5.2,320
+KSII,,CO,available,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Activity price calculation via KSII is the go-forward transaction, not a removal. It appears here as the named successor to the retired ABC code CPII.",reviewed,6.5.2,320
 KSU1-3,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","Successor codes, not casualties. KSU1 to KSU3 replace the retired CPP1 to CPP3 assessment transactions from the ABC scope and remain current in S/4HANA.",reviewed,6.5.2,320
-KSU5,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","This one is the replacement, not the replaced. KSU5 takes over from the retired ABC assessment run CPP5 and continues as a current transaction.",pending,6.5.2,320
+KSU5,,CO,available,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","This one is the replacement, not the replaced. KSU5 takes over from the retired ABC assessment run CPP5 and continues as a current transaction.",reviewed,6.5.2,320
 KSV1-3,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)",Nothing to change in your routine here. KSV1 to KSV3 are the named successors to the retired CPV1 to CPV3 distribution cycle transactions and stay current in S/4HANA.,reviewed,6.5.2,320
-KSV5,,CO,replaced,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","You keep your distribution run. KSV5 is listed as the successor to the retired ABC code CPV5, and the transaction itself is fully current in S/4HANA.",pending,6.5.2,320
+KSV5,,CO,available,,none,,"S4TWL - ACTIVITY-BASED COSTING (S4TWL item 6.5.2, SAP Note 2270408)","You keep your distribution run. KSV5 is listed as the successor to the retired ABC code CPV5, and the transaction itself is fully current in S/4HANA.",reviewed,6.5.2,320
 LPO_BOM_GETDETAIL,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
 LPO_DEMANDS_GETLIST,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
 LPO_ITEM_GETDETAIL,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
@@ -546,21 +546,21 @@ PASW,,IND-High Tech,replaced,,none,,"S4TWL - Installed Base Management for IS-SW
 PDCE,,PLM,replaced,,none,,"S4TWL - Product Design Cost Estimate (S4TWL item 10.4.13, SAP Note 2442292)",,pending,10.4.13,932
 PDN,,PLM,deleted,,none,,"S4TWL - Product Designer Workbench (S4TWL item 10.4.2, SAP Note 2267841)",,pending,10.4.2,920
 PEG01,,IND-Aerospace and Defense,replaced,,none,,"S4TWL - Collective Processing Pegging (S4TWL item 13.1.1, SAP Note 2270832)",,pending,13.1.1,1028
-PEG01N,,IND-Aerospace and Defense,replaced,,none,,"S4TWL - Collective Processing Pegging (S4TWL item 13.1.1, SAP Note 2270832)",,pending,13.1.1,1028
+PEG01N,,IND-Aerospace and Defense,available,,none,,"S4TWL - Collective Processing Pegging (S4TWL item 13.1.1, SAP Note 2270832)","No need to retire this one. PEG01N is the successor SAP names for the retired PEG01 (Pegging: Collective Processing), and it remains current.",reviewed,13.1.1,1028
 PEG12,,IND-Aerospace and Defense,deleted,,none,,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
 PEG13,,IND-Aerospace and Defense,deleted,,none,,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
 PEG15,,IND-Aerospace and Defense,deleted,,none,,"S4TWL - Obsolete transactions and Enhancements in GPD (S4TWL item 13.1.8, SAP Note 2445653)",,pending,13.1.8,1038
 PFSE,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
 PKW1,,PP,deleted,,none,,"S4TWL - Internet Kanban (S4TWL item 9.3.1, SAP Note 2268082)",,pending,9.3.1,606
-PMEVC,,PLM,deleted,,none,,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)",,pending,10.4.8,926
+PMEVC,,PLM,available,,none,,"S4TWL - Variant Configuration (S4TWL item 10.4.8, SAP Note 2267873)","PMEVC continues unchanged. SAP directs users of the retired CU80 and CUMODEL transactions to use PMEVC instead, so it's the destination, not something being withdrawn.",reviewed,10.4.8,926
 POF,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Probably a parsing artefact rather than a transaction. This looks like a fragment of the POFO1 to POFO3 portfolio family, whose successors are POFO31 to POFO33.",reviewed,6.6.2,376
 POFO,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Likely a truncated capture of the POFO1 to POFO3 family from a line wrap in the source. See those records, which map to successors POFO31 to POFO33.",reviewed,6.6.2,376
 POFO1,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Portfolio processing moves from POFO1 to POFO31, its named successor in the simplification item's mapping table.",reviewed,6.6.2,376
 POFO2,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",SAP's successor table points POFO2 users to POFO32. The old code is retired as Global Trade Management moves onto its simplified data model.,reviewed,6.6.2,376
 POFO3,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Swap POFO3 for POFO33, the successor named in the item's portfolio mapping. The change comes with GTM's rebuilt data model in S/4HANA.",reviewed,6.6.2,376
-POFO31,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","A successor, not a removal. POFO31 replaces POFO1 in the GTM portfolio mapping and remains a current transaction.",pending,6.6.2,376
-POFO32,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Current and here to stay. POFO32 appears in this dataset as the mapped successor to POFO2, captured from the item's successor table.",pending,6.6.2,376
-POFO33,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Still current in S/4HANA. POFO33 is the named successor for POFO3 in the portfolio mapping, so it is the code you should be using.",pending,6.6.2,376
+POFO31,,FI-GRC,available,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","A successor, not a removal. POFO31 replaces POFO1 in the GTM portfolio mapping and remains a current transaction.",reviewed,6.6.2,376
+POFO32,,FI-GRC,available,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Current and here to stay. POFO32 appears in this dataset as the mapped successor to POFO2, captured from the item's successor table.",reviewed,6.6.2,376
+POFO33,,FI-GRC,available,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Still current in S/4HANA. POFO33 is the named successor for POFO3 in the portfolio mapping, so it is the code you should be using.",reviewed,6.6.2,376
 PPECS,,PLM,deleted,,none,,"S4TWL - IPPE-BOM Converter (S4TWL item 10.4.25, SAP Note 2267879)",,pending,10.4.25,947
 PPH_MDAB,,PP,replaced,,none,,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
 PPH_MSAB,,PP,replaced,,none,,"S4TWL - Planning File (S4TWL item 9.5.6, SAP Note 2268088)",,pending,9.5.6,790
@@ -570,14 +570,14 @@ PX02,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6
 PX03,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
 PX04,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
 PX05,,CROSS,replaced,,none,,"S4TWL - External Interfaces in PP (S4TWL item 3.1.6, SAP Note 2268048)",,pending,3.1.6,40
-QA32,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QA32,,QM,available,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)","QA32 itself is unaffected. Only the old Workplace/MiniApp wrapper, QA32WP, goes when SAP retires ITS-based Workplace access.",reviewed,9.6.4,817
 QA32WP,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
-QE09,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QE09,,QM,available,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)","QE09 itself is unaffected. Only its old ITS/Workplace wrapper, QE09WP, is withdrawn.",reviewed,9.6.4,817
 QE09WP,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
 QEH1,,QM,deleted,,none,,"S4TWL - Results Recording (S4TWL item 9.6.5, SAP Note 2270124)",,pending,9.6.5,819
-QM10,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QM10,,QM,available,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",QM10 itself is unaffected; only the ITS/Workplace wrapper QM10WP is withdrawn.,reviewed,9.6.4,817
 QM10WP,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
-QM13,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
+QM13,,QM,available,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",QM13 itself is unaffected; only the ITS/Workplace wrapper QM13WP is withdrawn.,reviewed,9.6.4,817
 QM13WP,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
 QPIQS8,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
 QPIQS9,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
@@ -754,7 +754,7 @@ WAO_QPQA32,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS 
 WAO_QPQM10,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
 WAO_QPQM13,,QM,deleted,,none,,"S4TWL - QM WEB Workplace (MiniApps) based on ITS Services (S4TWL item 9.6.4, SAP Note 2270129)",,pending,9.6.4,817
 WB24,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","For the trading contract document overview, WBRR takes over from WB24. The successor runs report RWB2BREL for follow-on document processing, per the item's mapping table.",reviewed,6.6.2,376
-WB24N,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","No need to retire this one. WB24N is the named successor for WB25_COMP mass processing, captured here from the successor column, and remains current.",pending,6.6.2,376
+WB24N,,FI-GRC,available,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","No need to retire this one. WB24N is the named successor for WB25_COMP mass processing, captured here from the successor column, and remains current.",reviewed,6.6.2,376
 WB25,,FI-GRC,deleted,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","The old trading contract overview UI goes, and the 2025 successor table names nothing in its place. WB25 simply ends in S/4HANA.",pending,6.6.2,376
 WB25_COMP,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Mass processing of trading contracts moves to WB24N, which handles release and status updates as the named successor to WB25_COMP.",reviewed,6.6.2,376
 WB2B,,FI-GRC,deleted,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Trading contract processing on the old data model is removed, and the 2025 table names no successor for WB2B. GTM itself continues on the rebuilt WBHF and WBIT structures.",reviewed,6.6.2,376
@@ -766,7 +766,7 @@ WB2DI3,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.
 WB2DI4,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","The last of the GTM differential invoicing codes in this set. Like the others, WB2DI4 is removed, with Commodity Management carrying differential invoicing since ERP EHP7.",reviewed,6.6.2,376
 WB31,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)","Listed obsolete with no successor transaction. WB31 ran the trading contract financial documents report, which ends as GTM moves to the simplified data model.",reviewed,6.6.2,376
 WBL1,,SD,replaced,WBLRN,tcode,,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
-WBRR,,FI-GRC,replaced,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",This is the successor side of the mapping. WBRR takes over follow-on document processing from WB24 and remains a current transaction in S/4HANA.,pending,6.6.2,376
+WBRR,,FI-GRC,available,,none,,"S4TWL - Global Trade Management (S4TWL item 6.6.2, SAP Note 2267785)",This is the successor side of the mapping. WBRR takes over follow-on document processing from WB24 and remains a current transaction in S/4HANA.,reviewed,6.6.2,376
 WCMP_MASS,,SD,deleted,,none,,"S4TWL - SD Complaint Handling (S4TWL item 11.1.10, SAP Note 2267398)",,pending,11.1.10,1010
 WCMP_PROCESSING,,SD,deleted,,none,,"S4TWL - SD Complaint Handling (S4TWL item 11.1.10, SAP Note 2267398)",,pending,11.1.10,1010
 WCMP_RESULT,,SD,deleted,,none,,"S4TWL - SD Complaint Handling (S4TWL item 11.1.10, SAP Note 2267398)",,pending,11.1.10,1010
@@ -779,7 +779,7 @@ WLFE,,SD,replaced,,none,,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2
 WLFG,,SD,replaced,,none,,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
 WLFH,,SD,replaced,,none,,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
 WLFO,,SD,replaced,,none,,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
-WLI2,,SD,replaced,,none,,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
+WLI2,,SD,available,,none,,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)","Keep using WLI2. It's the successor SAP names for a family of retired settlement and billing document display transactions (including WLFB, WLFC, WLFD, WLFE, WLFG, WLFH and WLFO), not itself withdrawn.",reviewed,11.1.3,962
 WLR1,,SD,replaced,WLFSLRL,tcode,,"S4TWL - Agency Business (S4TWL item 11.1.3, SAP Note 2267743)",,pending,11.1.3,962
 WPC1,,IND-Retail,deleted,,none,,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
 WPC2,,IND-Retail,deleted,,none,,"S4TWL - Product catalog (S4TWL item 13.15.48, SAP Note 2267292)",,pending,13.15.48,1343
